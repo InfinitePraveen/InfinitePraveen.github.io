@@ -1,0 +1,117 @@
+.passion-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.2rem;
+}
+
+.passion-item {
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(6px);
+    border-radius: 2rem;
+    padding: 1.2rem 0.8rem;
+    text-align: center;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.02);
+    transition: 0.15s ease;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    cursor: pointer;
+    text-decoration: none;
+    color: inherit;
+}
+
+.passion-item:hover {
+    background: rgba(255, 255, 255, 0.9);
+    transform: scale(1.03);
+    border-color: #8aa3cf;
+    box-shadow: 0 12px 24px -8px rgba(26, 67, 133, 0.15);
+}
+
+.passion-item .icon-big {
+    font-size: 2.8rem;
+    filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.05));
+}
+
+.passion-item h4 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #0b1a33;
+    margin: 0.2rem 0 0.1rem;
+}
+
+.passion-item .sub {
+    font-size: 0.65rem;
+    color: #1f3a6b;
+    opacity: 0.7;
+    font-weight: 500;
+    max-width: 160px;
+}
+
+/* Color themes for each field */
+.passion-item.healthcare {
+    background: linear-gradient(145deg, #e7f0fa, #d4e2f5);
+    border-left: 4px solid #2a7f6e;
+}
+
+.passion-item.finance {
+    background: linear-gradient(145deg, #f0f4e8, #e2ecd5);
+    border-left: 4px solid #6b8c42;
+}
+
+.passion-item.renewable {
+    background: linear-gradient(145deg, #e8f4f0, #d5ece2);
+    border-left: 4px solid #2a7f6e;
+}
+
+.passion-item.robotics {
+    background: linear-gradient(145deg, #f0e8f4, #e2d5ec);
+    border-left: 4px solid #6b42a8;
+}
+
+.passion-item.aerospace {
+    background: linear-gradient(145deg, #e8ecf4, #d5dcec);
+    border-left: 4px solid #426ba8;
+}
+
+.passion-item.cybersecurity {
+    background: linear-gradient(145deg, #f4e8e8, #ecd5d5);
+    border-left: 4px solid #a84242;
+}
+
+.passion-item.materials {
+    background: linear-gradient(145deg, #f0f0e8, #e5e5d5);
+    border-left: 4px solid #8c8c42;
+}
+
+.passion-item.infrastructure {
+    background: linear-gradient(145deg, #e8f0f0, #d5e5e5);
+    border-left: 4px solid #428c8c;
+}
+
+.passion-item.enterprise {
+    background: linear-gradient(145deg, #f4f0e8, #ece5d5);
+    border-left: 4px solid #b08c42;
+}
+
+.passion-item.corporate {
+    background: linear-gradient(145deg, #e8f0f4, #d5e2ec);
+    border-left: 4px solid #426b8c;
+}
+
+.passion-item.supplychain {
+    background: linear-gradient(145deg, #f0f4e8, #e2ecd5);
+    border-left: 4px solid #6b8c42;
+}
+
+.passion-item.governance {
+    background: linear-gradient(145deg, #f4f0e8, #ece5d5);
+    border-left: 4px solid #b08c42;
+}
+
+.passion-item.digital {
+    background: linear-gradient(145deg, #f0e8f4, #e2d5ec);
+    border-left: 4px solid #6b42a8;
+}
