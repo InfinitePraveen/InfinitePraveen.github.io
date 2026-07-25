@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Healthcare Projects · Praveen Kumar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <style>
+        body {
+            padding: 3rem 2rem;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(145deg, #f5f7fc 0%, #e9edf5 100%);
+        }
+
+        .page-container {
+            max-width: 1200px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.85);
+            backdrop-filter: blur(12px);
+            border-radius: 3rem;
+            padding: 3rem;
+            box-shadow: 0 30px 60px rgba(0, 20, 40, 0.15);
+            border: 1px solid rgba(255, 255, 255, 0.4);
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 2rem;
+            color: #1f3a6b;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1.1rem;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .project-card {
+            background: rgba(255, 255, 255, 0.7);
+            border-radius: 1.5rem;
+            padding: 1.5rem;
+            margin-bottom: 1.5rem;
+            border: 1px solid rgba(255, 255, 255, 0.8);
+            transition: 0.2s;
+        }
+
+        .project-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+        }
+
+        .project-card h3 {
+            color: #0b1a33;
+            margin-bottom: 0.5rem;
+        }
+
+        .project-card p {
+            opacity: 0.7;
+        }
+
+        .project-link {
+            display: inline-block;
+            margin-top: 0.8rem;
+            color: #1f3a6b;
+            font-weight: 500;
+            text-decoration: none;
+            padding: 0.3rem 1rem;
+            background: rgba(31, 58, 107, 0.08);
+            border-radius: 30px;
+            transition: 0.2s;
+        }
+
+        .project-link:hover {
+            background: #1f3a6b;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="page-container">
+        <a href="../index.html" class="back-link"><i class="fas fa-arrow-left"></i> Back to Portfolio</a>
+        <h1>🏥 Healthcare & Medicine Projects</h1>
+        <p style="opacity:0.7; margin-bottom: 2rem;">Predictive diagnostics, drug discovery, and medical AI
+            applications.</p>
+
+        <div class="project-card">
+            <h3>🩺 Diabetes Prediction Model</h3>
+            <p>ML model for early detection of diabetes using patient health data with 92% accuracy.</p>
+            <div class="tech-stack"><span>scikit-learn</span><span>Pandas</span><span>XGBoost</span></div>
+            <a href="https://github.com/InfinitePraveen/Diabetes-Prediction-Model" target="_blank"
+                class="project-link"><i class="fab fa-github"></i> View Repository</a>
+        </div>
+
+        <div class="project-card">
+            <h3>💊 Drug Discovery AI</h3>
+            <p>Deep learning model for molecular interaction prediction and drug repurposing using graph neural
+                networks.</p>
+            <div class="tech-stack"><span>PyTorch</span><span>RDKit</span><span>DGL</span></div>
+            <a href="https://github.com/InfinitePraveen/Drug-Discovery-AI" target="_blank" class="project-link"><i
+                    class="fab fa-github"></i> View Repository</a>
+        </div>
+
+        <div class="project-card">
+            <h3>📊 Medical Imaging Analysis</h3>
+            <p>CNN-based classification of chest X-rays for pneumonia and COVID-19 detection.</p>
+            <div class="tech-stack"><span>TensorFlow</span><span>OpenCV</span><span>Keras</span></div>
+            <a href="https://github.com/InfinitePraveen/Medical-Image-Classification" target="_blank"
+                class="project-link"><i class="fab fa-github"></i> View Repository</a>
+        </div>
+    </div>
+</body>
+
+</html>
