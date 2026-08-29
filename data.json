@@ -1,0 +1,3700 @@
+{
+  "general": [
+    {
+      "Serial Number": 1,
+      "Project Name": "Iris Flower Classification",
+      "Description": "Classify iris species using petal & sepal features. The classic first ML project",
+      "Skills": "pandas, sklearn, decision tree",
+      "Link": "https://github.com/InfinitePraveen/Iris_Flower_Classification-Project"
+    },
+    {
+      "Serial Number": 2,
+      "Project Name": "Titanic Survival Prediction",
+      "Description": "Predict passenger survival using logistic regression on the famous Kaggle dataset",
+      "Skills": "pandas, logistic regression, EDA",
+      "Link": "https://github.com/InfinitePraveen/Titanic-Survival-Prediction-Kaggle-Competition"
+    },
+    {
+      "Serial Number": 3,
+      "Project Name": "House Price Prediction",
+      "Description": "Predict house prices using linear regression with the Ames Housing dataset",
+      "Skills": "linear regression, feature engineering",
+      "Link": "https://github.com/InfinitePraveen/Ames-Housing-Prediction"
+    },
+    {
+      "Serial Number": 4,
+      "Project Name": "Exploratory Data Analysis",
+      "Description": "Load any CSV, visualize distributions, find nulls, and summarize patterns.",
+      "Skills": "pandas, matplotlib, seaborn",
+      "Link": "https://github.com/InfinitePraveen/EDA-on-Netflix-Dataset"
+    },
+    {
+      "Serial Number": 5,
+      "Project Name": "Spam Email Detector",
+      "Description": "Use Naive Bayes to classify emails as spam or not spam.",
+      "Skills": "NLP basics, Naive Bayes, sklearn",
+      "Link": "https://github.com/InfinitePraveen/Spam-Email-Detector"
+    },
+    {
+      "Serial Number": 6,
+      "Project Name": "Student Grade Predictor",
+      "Description": "Predict student performance using study hours, attendance, and test scores (UCI dataset)",
+      "Skills": "regression, EDA, sklearn",
+      "Link": "https://github.com/InfinitePraveen/Student-Grade-Predictor"
+    },
+    {
+      "Serial Number": 7,
+      "Project Name": "Weather Data Dashboard",
+      "Description": "Fetch and visualize weather data — temperatures, humidity, and trends over time.",
+      "Skills": "pandas, seaborn, time series basics",
+      "Link": "https://github.com/InfinitePraveen/Weather-Data-Dashboard"
+    },
+    {
+      "Serial Number": 8,
+      "Project Name": "COVID-19 Data Analysis",
+      "Description": "Analyze public COVID datasets to find trends in cases, deaths, and vaccinations.",
+      "Skills": "pandas, plotly, data cleaning",
+      "Link": "https://github.com/InfinitePraveen/COVID-19-Data-Analysis"
+    },
+    {
+      "Serial Number": 9,
+      "Project Name": "Movie Ratings EDA",
+      "Description": "Explore the IMDB or MovieLens dataset to find patterns in genres, ratings, and years.",
+      "Skills": "pandas, visualization, groupby",
+      "Link": "https://github.com/InfinitePraveen/Movie-Ratings-EDA"
+    },
+    {
+      "Serial Number": 10,
+      "Project Name": "Diabetes Prediction",
+      "Description": "Build a classifier to predict diabetes using the Pima Indians dataset.",
+      "Skills": "decision tree, sklearn, binary classification",
+      "Link": "https://github.com/InfinitePraveen/Diabetes-Prediction"
+    },
+    {
+      "Serial Number": 11,
+      "Project Name": "Customer Churn Prediction",
+      "Description": "Predict which telecom customers are likely to leave using classification models",
+      "Skills": "random forest, feature engineering",
+      "Link": "https://github.com/InfinitePraveen/Customer-Churn-Prediction"
+    },
+    {
+      "Serial Number": 12,
+      "Project Name": "Credit Card Fraud Detection",
+      "Description": "Detect fraudulent transactions in an imbalanced dataset using sampling techniques",
+      "Skills": "SMOTE, imbalanced data, XGBoost",
+      "Link": "https://github.com/InfinitePraveen/Credit-Card-Fraud-Detection"
+    },
+    {
+      "Serial Number": 13,
+      "Project Name": "Movie Recommendation System",
+      "Description": "Build a collaborative filtering recommender using cosine similarity",
+      "Skills": "recommender systems, numpy, cosine similarity",
+      "Link": "https://github.com/InfinitePraveen/Movie-Recommendation-System"
+    },
+    {
+      "Serial Number": 14,
+      "Project Name": "Sentiment Analysis on Tweets",
+      "Description": "Classify tweet sentiment as positive, negative, or neutral using NLP.",
+      "Skills": "NLTK, TF-IDF, text classification",
+      "Link": "https://github.com/InfinitePraveen/Sentiment-Analysis-on-Tweets"
+    },
+    {
+      "Serial Number": 15,
+      "Project Name": "Stock Price Prediction",
+      "Description": "Predict short-term stock price direction using historical OHLCV data.",
+      "Skills": "time series, pandas, sklearn",
+      "Link": "https://github.com/InfinitePraveen/Stock-Price-Prediction-With-.NET-"
+    },
+    {
+      "Serial Number": 16,
+      "Project Name": "K-Means Customer Segmentation",
+      "Description": "Cluster retail customers by spending behavior to find distinct groups",
+      "Skills": "unsupervised learning, K-Means, PCA",
+      "Link": "https://github.com/InfinitePraveen/K-Means-Customer-Segmentation"
+    },
+    {
+      "Serial Number": 17,
+      "Project Name": "Heart Disease Prediction",
+      "Description": "Predict heart disease risk using clinical features and an ensemble model.",
+      "Skills": "XGBoost, feature selection, cross-validation",
+      "Link": "https://github.com/InfinitePraveen/Heart-Disease-Prediction"
+    },
+    {
+      "Serial Number": 18,
+      "Project Name": "Fake News Detection",
+      "Description": "Build a text classifier to identify whether a news article is real or fake.",
+      "Skills": "NLP, logistic regression, TF-IDF",
+      "Link": "https://github.com/InfinitePraveen/Fake-News-Detection"
+    },
+    {
+      "Serial Number": 19,
+      "Project Name": "Sales Forecasting",
+      "Description": "Forecast future sales for a retail store using time series decomposition.",
+      "Skills": "ARIMA, Prophet, seasonality",
+      "Link": "https://github.com/InfinitePraveen/Sales-Forecasting"
+    },
+    {
+      "Serial Number": 20,
+      "Project Name": " Handwritten Digit Recognizer",
+      "Description": "Classify MNIST digits using a neural network built with Keras.",
+      "Skills": "neural networks, Keras, MNIST",
+      "Link": "https://github.com/InfinitePraveen/Handwritten-Digit-Recognizer"
+    },
+    {
+      "Serial Number": 21,
+      "Project Name": "Image Classification with CNN",
+      "Description": "Train a CNN to classify CIFAR-10 images into 10 object categories.",
+      "Skills": "CNN, TensorFlow, data augmentation",
+      "Link": "https://github.com/InfinitePraveen/Image-Classification-with-CNN"
+    },
+    {
+      "Serial Number": 22,
+      "Project Name": "Topic Modeling on News Articles",
+      "Description": "Use LDA to discover hidden topics across a large corpus of news documents.",
+      "Skills": "LDA, gensim, unsupervised NLP",
+      "Link": "https://github.com/InfinitePraveen/Topic-Modeling-on-News-Articles"
+    },
+    {
+      "Serial Number": 23,
+      "Project Name": "Loan Default Prediction",
+      "Description": "Predict whether a borrower will default using financial features and gradient boosting.",
+      "Skills": "gradient boosting, EDA, LightGBM",
+      "Link": "https://github.com/InfinitePraveen/Loan-Default-Prediction"
+    },
+    {
+      "Serial Number": 24,
+      "Project Name": "A/B Test Analysis",
+      "Description": "Analyze results of an A/B test to determine statistical significance and lift.",
+      "Skills": "statistics, hypothesis testing, scipy",
+      "Link": "https://github.com/InfinitePraveen/A-B-Test-Analysis"
+    },
+    {
+      "Serial Number": 25,
+      "Project Name": "Click-Through Rate Prediction",
+      "Description": "Predict whether a user will click on an ad using behavioral and demographic data.",
+      "Skills": "feature engineering, LightGBM, CTR",
+      "Link": "https://github.com/InfinitePraveen/Click-Through-Rate-Prediction"
+    },
+    {
+      "Serial Number": 26,
+      "Project Name": "Named Entity Recognition (NER)",
+      "Description": "Build a model to extract names, locations, and organizations from raw text.",
+      "Skills": "spaCy, sequence labeling, IOB tagging",
+      "Link": "https://github.com/InfinitePraveen/Named-Entity-Recognition"
+    },
+    {
+      "Serial Number": 27,
+      "Project Name": "Transfer Learning for Images",
+      "Description": "Fine-tune VGG16 or ResNet on a custom image dataset using pretrained weights.",
+      "Skills": "transfer learning, PyTorch, fine-tuning",
+      "Link": "https://github.com/InfinitePraveen/Transfer-Learning-for-Images"
+    },
+    {
+      "Serial Number": 28,
+      "Project Name": "Demand Forecasting with LSTM",
+      "Description": "Forecast store demand using a Long Short-Term Memory recurrent neural network.",
+      "Skills": "LSTM, time series, TensorFlow",
+      "Link": "https://github.com/InfinitePraveen/Demand-Forecasting-with-LSTM"
+    },
+    {
+      "Serial Number": 29,
+      "Project Name": "Text Summarization",
+      "Description": "Build an extractive or abstractive summarizer for long articles",
+      "Skills": "transformers, HuggingFace, BART/T5",
+      "Link": "https://github.com/InfinitePraveen/Text-Summarization"
+    },
+    {
+      "Serial Number": 30,
+      "Project Name": "Anomaly Detection in IoT Data",
+      "Description": "Detect unusual sensor readings in time series using autoencoders.",
+      "Skills": "autoencoders, anomaly detection, Keras",
+      "Link": "https://github.com/InfinitePraveen/Anomaly-Detection-in-IoT-Data"
+    },
+    {
+      "Serial Number": 31,
+      "Project Name": "GAN-based Image Generation",
+      "Description": "Train a Generative Adversarial Network to produce realistic synthetic images.",
+      "Skills": "GANs, PyTorch, generator/discriminator",
+      "Link": "https://github.com/InfinitePraveen/GAN-based-Image-Generation"
+    },
+    {
+      "Serial Number": 32,
+      "Project Name": "Churn Prediction + SHAP",
+      "Description": "Build a churn model and explain predictions using SHAP values for interpretability.",
+      "Skills": "XGBoost, SHAP, model explainability",
+      "Link": "https://github.com/InfinitePraveen/Churn-Prediction-SHAP"
+    },
+    {
+      "Serial Number": 33,
+      "Project Name": "Speech Emotion Recognition",
+      "Description": "Classify emotions in audio clips using MFCCs and a deep learning classifier",
+      "Skills": "audio processing, librosa, deep learning",
+      "Link": "https://github.com/InfinitePraveen/Speech-Emotion-Recognition"
+    },
+    {
+      "Serial Number": 34,
+      "Project Name": "Question Answering with BERT",
+      "Description": "Fine-tune BERT on SQuAD to answer questions from a given passage of text",
+      "Skills": "BERT, transformers, HuggingFace",
+      "Link": "https://github.com/InfinitePraveen/Question-Answering-with-BERT"
+    },
+    {
+      "Serial Number": 35,
+      "Project Name": "End-to-End ML Pipeline",
+      "Description": "Build a reproducible pipeline: data ingestion, preprocessing, training, and deployment.",
+      "Skills": "MLflow, sklearn pipelines, joblib",
+      "Link": "https://github.com/InfinitePraveen/End-to-End-ML-Pipeline"
+    },
+    {
+      "Serial Number": 36,
+      "Project Name": "Object Detection with YOLO",
+      "Description": "Detect and localize multiple objects in images in real time using YOLOv8.",
+      "Skills": "YOLO, computer vision, bounding boxes",
+      "Link": "https://github.com/InfinitePraveen/Object-Detection-with-YOLO"
+    },
+    {
+      "Serial Number": 37,
+      "Project Name": "Reinforcement Learning CartPole",
+      "Description": "Train an RL agent to balance a pole using Q-learning or policy gradients.",
+      "Skills": "OpenAI Gym, Q-learning, policy gradients",
+      "Link": "https://github.com/InfinitePraveen/Reinforcement-Learning-CartPole"
+    },
+    {
+      "Serial Number": 38,
+      "Project Name": "Multi-class Text Classification",
+      "Description": "Fine-tune BERT on a multi-class news topic labeling task.",
+      "Skills": "BERT, HuggingFace, text classification",
+      "Link": "https://github.com/InfinitePraveen/Multi-class-Text-Classification"
+    },
+    {
+      "Serial Number": 39,
+      "Project Name": "Matrix Factorization Recommender",
+      "Description": "Use SVD-based collaborative filtering to build a scalable recommendation engine.",
+      "Skills": "SVD, collaborative filtering, surprise",
+      "Link": "https://github.com/InfinitePraveen/Matrix-Factorization-Recommender"
+    },
+    {
+      "Serial Number": 40,
+      "Project Name": "Medical Image Segmentation",
+      "Description": "Segment tumors or organs in medical images using a U-Net architecture.",
+      "Skills": "U-Net, medical imaging, PyTorch",
+      "Link": "https://github.com/InfinitePraveen/Medical-Image-Segmentation"
+    },
+    {
+      "Serial Number": 41,
+      "Project Name": "Large-Scale Fraud Detection",
+      "Description": "Design a real-time fraud detection system with feature stores and streaming data.",
+      "Skills": "Kafka, feature store, MLOps",
+      "Link": "https://github.com/InfinitePraveen/Large-Scale-Fraud-Detection"
+    },
+    {
+      "Serial Number": 42,
+      "Project Name": "LLM Fine-Tuning on Custom Data",
+      "Description": "Fine-tune a large language model (LLaMA / Mistral) on a domain-specific dataset.",
+      "Skills": "LoRA, PEFT, LLMs, HuggingFace",
+      "Link": "https://github.com/InfinitePraveen/LLM-Fine-Tuning-on-Custom-Data"
+    },
+    {
+      "Serial Number": 43,
+      "Project Name": "Multimodal Sentiment Analysis",
+      "Description": "Fuse text and image features to predict sentiment from social media posts.",
+      "Skills": "multimodal, vision-language, fusion models",
+      "Link": "https://github.com/InfinitePraveen/Multimodal-Sentiment-Analysis"
+    },
+    {
+      "Serial Number": 44,
+      "Project Name": "GNN for Drug Discovery",
+      "Description": "Predict molecular properties using graph-based representations of chemical compounds.",
+      "Skills": "GNN, PyTorch Geometric, molecular graphs",
+      "Link": "https://github.com/InfinitePraveen/GNN-for-Dug-Discovery"
+    },
+    {
+      "Serial Number": 45,
+      "Project Name": "Self-Supervised Pretraining",
+      "Description": "Pretrain a model on unlabeled data using contrastive learning (SimCLR, MoCo)",
+      "Skills": "self-supervised, contrastive learning, ViT",
+      "Link": "https://github.com/InfinitePraveen/Self-Supervised-Pretraining"
+    },
+    {
+      "Serial Number": 46,
+      "Project Name": "Neural Architecture Search",
+      "Description": "Automate the search for optimal neural network architectures for a given task",
+      "Skills": "NAS, AutoML, Optuna",
+      "Link": "https://github.com/InfinitePraveen/Neural-Architecture-Search"
+    },
+    {
+      "Serial Number": 47,
+      "Project Name": "Causal Inference from Observational Data",
+      "Description": "Estimate treatment effects from non-experimental data using DoWhy or causal forests.",
+      "Skills": "causal ML, DoWhy, propensity scoring",
+      "Link": "https://github.com/InfinitePraveen/Casual-Inference-from-Observational-Data"
+    },
+    {
+      "Serial Number": 48,
+      "Project Name": "Federated Learning Simulation",
+      "Description": "Simulate distributed training across multiple clients without sharing raw data.",
+      "Skills": "federated learning, privacy, PySyft",
+      "Link": "https://github.com/InfinitePraveen/Federated-Learning-Simulation"
+    },
+    {
+      "Serial Number": 49,
+      "Project Name": " Diffusion Model from Scratch",
+      "Description": "Implement a diffusion probabilistic model to generate high-quality images",
+      "Skills": "diffusion models, DDPM, generative AI",
+      "Link": "https://github.com/InfinitePraveen/-Diffusion-Model-from-Scratch"
+    },
+    {
+      "Serial Number": 50,
+      "Project Name": "Production ML System + Monitoring",
+      "Description": "Deploy a full ML system with CI/CD, model versioning, drift detection, and alerting.",
+      "Skills": "MLOps, Evidently, BentoML, Docker",
+      "Link": "https://github.com/InfinitePraveen/Production-ML-System-Monitoring"
+    }
+  ],
+  "passion": [
+    {
+      "Serial Number": 1,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Neural-to-Text EEG Decoding",
+      "Profession": "Neuromorphic AI Engineer",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Neural-to-Text-EEG-Decoding"
+    },
+    {
+      "Serial Number": 2,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Digital Twin Treatment Simulator",
+      "Profession": "Clinical Data Scientist",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Digital-Twin-Treatment-Simulator"
+    },
+    {
+      "Serial Number": 3,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Proactive Pandemic Forecasting",
+      "Profession": "GNN Specialist",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Proactive-Pandemic-Forecasting"
+    },
+    {
+      "Serial Number": 4,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Explainable AI for Diagnostic Imaging",
+      "Profession": "Computer Vision Scientist",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Explainable-AI-for-Diagnostic-Imaging"
+    },
+    {
+      "Serial Number": 5,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Micro-Robotic Neural Repair",
+      "Profession": "Robotics AI Engineer",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Micro-Robotic-Neural-Repair"
+    },
+    {
+      "Serial Number": 6,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Self-Adapting Medical Implants",
+      "Profession": "Biomedical Data Scientist",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Self-Adapting-Medical-Implants"
+    },
+    {
+      "Serial Number": 7,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "AI-Controlled Pacemakers",
+      "Profession": "Real-time Systems Eng.",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/AI-Controlled-Pacemakers"
+    },
+    {
+      "Serial Number": 8,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Vocal Biomarker Clinical Screening",
+      "Profession": "NLP/Audio ML Eng.",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Vocal-Biomarker-Clinical-Screening"
+    },
+    {
+      "Serial Number": 9,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Mental Health Companion Bots",
+      "Profession": "Conversational AI Eng.",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Mental-Health-Companion-Bots"
+    },
+    {
+      "Serial Number": 10,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Autonomous Robotic Surgeons",
+      "Profession": "Reinforcement Learning Eng.",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Autonomous-Robotic-Surgeons"
+    },
+    {
+      "Serial Number": 11,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Regenerative Tissue Synthesis",
+      "Profession": "Generative AI Scientist",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Regenerative-Tissue-Synthesis"
+    },
+    {
+      "Serial Number": 12,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Patient Readmission Predictor",
+      "Profession": "Healthcare Analyst",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Patient-Readmission-Predictor"
+    },
+    {
+      "Serial Number": 13,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "MRI Tumor Segmentation",
+      "Profession": "CV Engineer",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/MRI-Tumor-Segmentation"
+    },
+    {
+      "Serial Number": 14,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Emergency Triage Optimizer",
+      "Profession": "RL Operations Researcher",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Emergency-Triage-Optimizer"
+    },
+    {
+      "Serial Number": 15,
+      "Fields": "HEALTHCARE & MEDICINE",
+      "Project Name": "Smart Diabetes Prediction Monitor",
+      "Profession": "Wearable Data Analyst",
+      "Best for": "Data Scientists, Bioinformaticians, Clinical AI Researchers",
+      "Link": "https://github.com/InfinitePraveen/Smart-Diabetes-Prediction-Monitor"
+    },
+    {
+      "Serial Number": 16,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "360-Degree Real-Time Risk Profiler",
+      "Profession": "Quantitative Analyst",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/360-Degree-Real-Time-Risk-Profiler"
+    },
+    {
+      "Serial Number": 17,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Autonomous RegTech Compliance Engine",
+      "Profession": "NLP/GenAI Engineer",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Autonomous-RegTech-Compliance-Engine"
+    },
+    {
+      "Serial Number": 18,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "High-Frequency Sentiment Trade Optimizer",
+      "Profession": "Algorithmic Trader",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/High-Frequency-Sentiment-Trade-Optimizer"
+    },
+    {
+      "Serial Number": 19,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Credit Default Scorecard",
+      "Profession": "Credit Risk Analyst",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Credit-Default-Scorecard"
+    },
+    {
+      "Serial Number": 20,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "High-Frequency Trade Execution",
+      "Profession": "ML Quant",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/High-Frequency-Trade-Execution"
+    },
+    {
+      "Serial Number": 21,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Counterparty Credit Risk (CCR) Network",
+      "Profession": "Graph Data Scientist",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Counterparty-Credit-Risk-CCR-Network"
+    },
+    {
+      "Serial Number": 22,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Real-Time Fraud Ring Detection",
+      "Profession": "Anomaly Detection Eng.",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Real-Time-Fraud-Ring-Detection"
+    },
+    {
+      "Serial Number": 23,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Deal Valuation GPT (M&A)",
+      "Profession": "FinTech LLM Eng.",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Deal-Valuation-GPT-M-A-"
+    },
+    {
+      "Serial Number": 24,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Yield Curve Interpolator",
+      "Profession": "Financial Engineer",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Yield-Curve-Interpolator"
+    },
+    {
+      "Serial Number": 25,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Liquidity Stress Testing",
+      "Profession": "Risk Simulator",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Liquidity-Stress-Testing"
+    },
+    {
+      "Serial Number": 26,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Operational Risk Bayesian Model",
+      "Profession": "Bayesian Statistician",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Operational-Risk-Bayesian-Model"
+    },
+    {
+      "Serial Number": 27,
+      "Fields": "FINANCIAL SERVICES & INVESTMENT BANKING",
+      "Project Name": "Decentralized Risk Oracle (Federated)",
+      "Profession": "Privacy-Preserving AI",
+      "Best for": "Quants, FinTech Engineers, Risk Managers",
+      "Link": "https://github.com/InfinitePraveen/Decentralized-Risk-Oracle-Federated-"
+    },
+    {
+      "Serial Number": 28,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Predictive Maintenance for Smart Grids",
+      "Profession": "IoT ML Engineer",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Predictive-Maintenance-for-Smart-Grids"
+    },
+    {
+      "Serial Number": 29,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Demand Response Load Forecaster",
+      "Profession": "Time-Series Analyst",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Demand-Response-Load-Forecaster"
+    },
+    {
+      "Serial Number": 30,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Next-Gen Solar Cell Architecture Simulator",
+      "Profession": "Computational Physicist",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Next-Gen-Solar-Cell-Architecture-Simulator"
+    },
+    {
+      "Serial Number": 31,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Solar Farm Output Forecaster",
+      "Profession": "Weather Data Analyst",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Solar-Farm-Output-Forecaster"
+    },
+    {
+      "Serial Number": 32,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Wind Turbine Anomaly Detection",
+      "Profession": "Signal Processing Eng.",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Wind-Turbine-Anomaly-Detection"
+    },
+    {
+      "Serial Number": 33,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Smart Grid Load Balancing (CNN+LSTM)",
+      "Profession": "Energy Systems Eng.",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Smart-Grid-Load-Balancing-CNN-LSTM-"
+    },
+    {
+      "Serial Number": 34,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "Offshore Platform Energy Optimization",
+      "Profession": "Operations Researcher",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/Offshore-Platform-Energy-Optimization"
+    },
+    {
+      "Serial Number": 35,
+      "Fields": "RENEWABLE ENERGY & SPECIALIZED ENGINEERING",
+      "Project Name": "AI-Designed Perovskite Solar Cells",
+      "Profession": "Generative Chemist",
+      "Best for": "Energy Data Scientists, Physicists, IoT Engineers",
+      "Link": "https://github.com/InfinitePraveen/AI-Designed-Perovskite-Solar-Cells"
+    },
+    {
+      "Serial Number": 36,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Electronic Warfare (EW) Autonomous Linchpin",
+      "Profession": "RF/ML Engineer",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Electronic-Warfare-EW-Autonomous-Linchpin"
+    },
+    {
+      "Serial Number": 37,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Collaborative Swarm Intelligence",
+      "Profession": "Multi-Agent RL Eng.",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Collaborative-Swarm-Intelligence"
+    },
+    {
+      "Serial Number": 38,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Predictive Enemy Strategy Mapping",
+      "Profession": "Predictive Modeler",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Predictive-Enemy-Strategy-Mapping"
+    },
+    {
+      "Serial Number": 39,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Military Exoskeleton Response Optimizer",
+      "Profession": "Biomechatronics AI",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Military-Exoskeleton-Response-Optimizer"
+    },
+    {
+      "Serial Number": 40,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Signal Classification (EW)",
+      "Profession": "Spectrum Analyst",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Signal-Classification-EW-"
+    },
+    {
+      "Serial Number": 41,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Cognitive Anti-Jamming (Q-Learning)",
+      "Profession": "RL Engineer",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Cognitive-Anti-Jamming-Q-Learning-"
+    },
+    {
+      "Serial Number": 42,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Hypersonic Plasma Sheath Attenuation",
+      "Profession": "Physics-Informed NN Eng",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Hypersonic-Plasma-Sheath-Attenuation"
+    },
+    {
+      "Serial Number": 43,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "GPS-Denied UAV Navigation (EKF/VIO)",
+      "Profession": "Roboticist",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/GPS-Denied-UAV-Navigation-EKF-VIO-"
+    },
+    {
+      "Serial Number": 44,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Self-Righting Drone Systems",
+      "Profession": "DRL Engineer",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Self-Righting-Drone-Systems"
+    },
+    {
+      "Serial Number": 45,
+      "Fields": "ADVANCED MILITARY ROBOTICS",
+      "Project Name": "Neural-Command Exoskeleton",
+      "Profession": "BCI Engineer",
+      "Best for": "Defense Contractors, Robotics AI, Control Engineers",
+      "Link": "https://github.com/InfinitePraveen/Neural-Command-Exoskeleton"
+    },
+    {
+      "Serial Number": 46,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Orbital Debris Tracking & Management Grid",
+      "Profession": "Computer Vision/SAR",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Orbital-Debris-Tracking-Management-Grid"
+    },
+    {
+      "Serial Number": 47,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Asteroid Mining Resource Classifier",
+      "Profession": "Spectral Data Scientist",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Asteroid-Mining-Resource-Classifier"
+    },
+    {
+      "Serial Number": 48,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "SATCOM Interconnected Intelligence",
+      "Profession": "Network Data Scientist",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/SATCOM-Interconnected-Intelligence"
+    },
+    {
+      "Serial Number": 49,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Exoplanet Transit Detection",
+      "Profession": "Astronomical Analyst",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Exoplanet-Transit-Detection"
+    },
+    {
+      "Serial Number": 50,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Autonomous Science Prioritization (Rovers)",
+      "Profession": "Active Learning Eng.",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Autonomous-Science-Prioritization-Rovers-"
+    },
+    {
+      "Serial Number": 51,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "In-Situ Resource Utilization (ISRU) Planner",
+      "Profession": "Generative Chem. Eng.",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/In-Situ-Resource-Utilization-ISRU-Planner"
+    },
+    {
+      "Serial Number": 52,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Collision Probability Monte Carlo",
+      "Profession": "Orbital Mechanic",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Collision-Probability-Monte-Carlo"
+    },
+    {
+      "Serial Number": 53,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "AI Co-Pilot (LLM for Emergencies)",
+      "Profession": "Aviation AI Eng.",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/AI-Co-Pilot-LLM-for-Emergencies-"
+    },
+    {
+      "Serial Number": 54,
+      "Fields": "AEROSPACE & SPACE FRONTIERS",
+      "Project Name": "Dynamic Beam Hopping (Satcom)",
+      "Profession": "RL Scheduler",
+      "Best for": "Aerospace Engineers, Remote Sensing Scientists, Orbital Mech. Experts",
+      "Link": "https://github.com/InfinitePraveen/Dynamic-Beam-Hopping-Satcom-"
+    },
+    {
+      "Serial Number": 55,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Quantum Cryptography Breach Simulator",
+      "Profession": "Quantum Researcher",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Quantum-Cryptography-Breach-Simulator"
+    },
+    {
+      "Serial Number": 56,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Automated Fraud & Cyber-Attack Neutralizer",
+      "Profession": "SOC Automation Eng",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Automated-Fraud-Cyber-Attack-Neutralizer"
+    },
+    {
+      "Serial Number": 57,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Geospatial Intelligence (GEOINT) Mobility Mapper",
+      "Profession": "GIS Data Scientist",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Geospatial-Intelligence-GEOINT-Mobility-Mapper"
+    },
+    {
+      "Serial Number": 58,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Phishing URL Detector",
+      "Profession": "Security Analyst",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Phishing-URL-Detector"
+    },
+    {
+      "Serial Number": 59,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Network Intrusion Detection (GNN)",
+      "Profession": "Network ML Eng.",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Network-Intrusion-Detection-GNN-"
+    },
+    {
+      "Serial Number": 60,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Generative Honeypots (GANs for ICS)",
+      "Profession": "Adversarial ML Eng.",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Generative-Honeypots-GANs-for-ICS-"
+    },
+    {
+      "Serial Number": 61,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "BB84 Quantum Key Distribution Sim",
+      "Profession": "Quantum Enthusiast",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/BB84-Quantum-Key-Distribution-Sim"
+    },
+    {
+      "Serial Number": 62,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "Synthetic DNA Biosecurity Screener",
+      "Profession": "Bioinformatician",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/Synthetic-DNA-Biosecurity-Screener"
+    },
+    {
+      "Serial Number": 63,
+      "Fields": "CYBERSECURITY & STRATEGIC INTELLIGENCE",
+      "Project Name": "DeepFake Defense System",
+      "Profession": "Media Forensics AI",
+      "Best for": "Security Analysts, Cryptographers, GEOINT Specialists",
+      "Link": "https://github.com/InfinitePraveen/DeepFake-Defense-System"
+    },
+    {
+      "Serial Number": 64,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "Self-Healing Ballistic Polymers",
+      "Profession": "Molecular Dynamics AI",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/Self-Healing-Ballistic-Polymers"
+    },
+    {
+      "Serial Number": 65,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "AI-Driven Fusion Containment (Tokamak)",
+      "Profession": "Plasma Physicist",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/AI-Driven-Fusion-Containment-Tokamak-"
+    },
+    {
+      "Serial Number": 66,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "Coherent Beam Combining (DEW)",
+      "Profession": "Photonics ML Eng.",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/Coherent-Beam-Combining-DEW-"
+    },
+    {
+      "Serial Number": 67,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "Dynamic Camouflage Generator (GAN)",
+      "Profession": "CV Generative Eng.",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/Dynamic-Camouflage-Generator-GAN-"
+    },
+    {
+      "Serial Number": 68,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "Radar Absorbing Material (RAM) Optimizer",
+      "Profession": "Metamaterial Scientist",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/Radar-Absorbing-Material-RAM-Optimizer"
+    },
+    {
+      "Serial Number": 69,
+      "Fields": "NEXT-GEN MATERIALS & PROPULSION ",
+      "Project Name": "Nuclear Fuel Burnup Optimization",
+      "Profession": "Nuclear Engineer",
+      "Best for": "Materials Scientists, Physicists, Mechanical Engineers",
+      "Link": "https://github.com/InfinitePraveen/Nuclear-Fuel-Burnup-Optimization"
+    },
+    {
+      "Serial Number": 70,
+      "Fields": "STRATEGIC INFRASTRUCTURE & SIMULATION ",
+      "Project Name": "ASW Localization (Particle Filter)",
+      "Profession": "Sonar Data Scientist",
+      "Best for": "Naval Engineers, Game Devs, Simulation Architects",
+      "Link": "https://github.com/InfinitePraveen/ASW-Localization-Particle-Filter-"
+    },
+    {
+      "Serial Number": 71,
+      "Fields": "STRATEGIC INFRASTRUCTURE & SIMULATION ",
+      "Project Name": "Self-Noise Cancelling Submarine Hull",
+      "Profession": "Active Control Eng.",
+      "Best for": "Naval Engineers, Game Devs, Simulation Architects",
+      "Link": "https://github.com/InfinitePraveen/Self-Noise-Cancelling-Submarine-Hull"
+    },
+    {
+      "Serial Number": 72,
+      "Fields": "STRATEGIC INFRASTRUCTURE & SIMULATION ",
+      "Project Name": "Realistic Terrain Generator (GAN)",
+      "Profession": "Graphics AI Eng.",
+      "Best for": "Naval Engineers, Game Devs, Simulation Architects",
+      "Link": "https://github.com/InfinitePraveen/Realistic-Terrain-Generator-GAN-"
+    },
+    {
+      "Serial Number": 73,
+      "Fields": "STRATEGIC INFRASTRUCTURE & SIMULATION ",
+      "Project Name": "Brain-in-the-Loop Immersion Training",
+      "Profession": "Neuro-Adaptive Eng.",
+      "Best for": "Naval Engineers, Game Devs, Simulation Architects",
+      "Link": "https://github.com/InfinitePraveen/Brain-in-the-Loop-Immersion-Training"
+    },
+    {
+      "Serial Number": 74,
+      "Fields": "STRATEGIC INFRASTRUCTURE & SIMULATION ",
+      "Project Name": "Semi-Autonomous OPFOR (RL)",
+      "Profession": "Defense Simulator Eng.",
+      "Best for": "Naval Engineers, Game Devs, Simulation Architects",
+      "Link": "https://github.com/InfinitePraveen/Semi-Autonomous-OPFOR-RL-"
+    },
+    {
+      "Serial Number": 75,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Quantum Info Science for Supply Chains",
+      "Profession": "Quantum Algorithmist",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Quantum-Info-Science-for-Supply-Chains"
+    },
+    {
+      "Serial Number": 76,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Predictive People Analytics for Remote Work",
+      "Profession": "HR Data Scientist",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Predictive-People-Analytics-for-Remote-Work"
+    },
+    {
+      "Serial Number": 77,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Cloud FinOps Automated Governor",
+      "Profession": "Cloud FinOps Eng.",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Cloud-FinOps-Automated-Governor"
+    },
+    {
+      "Serial Number": 78,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Tech Debt Quantification",
+      "Profession": "Enterprise Architect",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Tech-Debt-Quantification"
+    },
+    {
+      "Serial Number": 79,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Self-Healing RPA Bots",
+      "Profession": "Automation AI Eng.",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Self-Healing-RPA-Bots"
+    },
+    {
+      "Serial Number": 80,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Cloud Commitment Discount Optimizer",
+      "Profession": "FinOps Analyst",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Cloud-Commitment-Discount-Optimizer"
+    },
+    {
+      "Serial Number": 81,
+      "Fields": "ADVANCED DATA & ENTERPRISE TECH ",
+      "Project Name": "Career Trajectory Simulator (GenAI)",
+      "Profession": "People Analytics Sci.",
+      "Best for": "Enterprise Architects, Cloud Engineers, HR Tech, RPA Devs",
+      "Link": "https://github.com/InfinitePraveen/Career-Trajectory-Simulator-GenAI-"
+    },
+    {
+      "Serial Number": 82,
+      "Fields": "CORPORATE FINANCE & STRATEGIC TRANSACTIONS",
+      "Project Name": "Anti-Trust Risk Predictor (Graph)",
+      "Profession": "Regulatory Data Sci.",
+      "Best for": "FP&A Analysts, Corporate Strategists, M&A Advisors",
+      "Link": "https://github.com/InfinitePraveen/Anti-Trust-Risk-Predictor-Graph-"
+    },
+    {
+      "Serial Number": 83,
+      "Fields": "CORPORATE FINANCE & STRATEGIC TRANSACTIONS",
+      "Project Name": "AI-Driven Ecosystem Map (Patents)",
+      "Profession": "CorpDev Analyst",
+      "Best for": "FP&A Analysts, Corporate Strategists, M&A Advisors",
+      "Link": "https://github.com/InfinitePraveen/AI-Driven-Ecosystem-Map-Patents-"
+    },
+    {
+      "Serial Number": 84,
+      "Fields": "CORPORATE FINANCE & STRATEGIC TRANSACTIONS",
+      "Project Name": "FX Rate Forecaster",
+      "Profession": "Treasury Analyst",
+      "Best for": "FP&A Analysts, Corporate Strategists, M&A Advisors",
+      "Link": "https://github.com/InfinitePraveen/FX-Rate-Forecaster"
+    },
+    {
+      "Serial Number": 85,
+      "Fields": "CORPORATE FINANCE & STRATEGIC TRANSACTIONS",
+      "Project Name": "Stress Testing Scenario Generator",
+      "Profession": "Risk Modeler",
+      "Best for": "FP&A Analysts, Corporate Strategists, M&A Advisors",
+      "Link": "https://github.com/InfinitePraveen/Stress-Testing-Scenario-Generator"
+    },
+    {
+      "Serial Number": 86,
+      "Fields": "CORPORATE FINANCE & STRATEGIC TRANSACTIONS",
+      "Project Name": "Earnout Structure Optimizer (Game Theory)",
+      "Profession": "M&A Strategist",
+      "Best for": "FP&A Analysts, Corporate Strategists, M&A Advisors",
+      "Link": "https://github.com/InfinitePraveen/Earnout-Structure-Optimizer-Game-Theory-"
+    },
+    {
+      "Serial Number": 87,
+      "Fields": "GLOBAL SUPPLY CHAIN & OPERATIONS ",
+      "Project Name": "Digital Twin of Global Supply Chain",
+      "Profession": "Ops Research Sci.",
+      "Best for": "Operations Researchers, Logistics Analysts, Industrial Engineers",
+      "Link": "https://github.com/InfinitePraveen/Digital-Twin-of-Global-Supply-Chain"
+    },
+    {
+      "Serial Number": 88,
+      "Fields": "GLOBAL SUPPLY CHAIN & OPERATIONS ",
+      "Project Name": "Autonomous Negotiation Bot (Procurement)",
+      "Profession": "Game Theory AI",
+      "Best for": "Operations Researchers, Logistics Analysts, Industrial Engineers",
+      "Link": "https://github.com/InfinitePraveen/Autonomous-Negotiation-Bot-Procurement-"
+    },
+    {
+      "Serial Number": 89,
+      "Fields": "GLOBAL SUPPLY CHAIN & OPERATIONS ",
+      "Project Name": "Multi-Echelon Inventory Control",
+      "Profession": "Inventory Optimizer",
+      "Best for": "Operations Researchers, Logistics Analysts, Industrial Engineers",
+      "Link": "https://github.com/InfinitePraveen/Multi-Echelon-Inventory-Control"
+    },
+    {
+      "Serial Number": 90,
+      "Fields": "GLOBAL SUPPLY CHAIN & OPERATIONS ",
+      "Project Name": "Dynamic Rerouting under Disruption",
+      "Profession": "RL Logistics Eng.",
+      "Best for": "Operations Researchers, Logistics Analysts, Industrial Engineers",
+      "Link": "https://github.com/InfinitePraveen/Dynamic-Rerouting-under-Disruption"
+    },
+    {
+      "Serial Number": 91,
+      "Fields": "GLOBAL SUPPLY CHAIN & OPERATIONS ",
+      "Project Name": "Supplier Risk Scorecard",
+      "Profession": "Procurement Analyst",
+      "Best for": "Operations Researchers, Logistics Analysts, Industrial Engineers",
+      "Link": "https://github.com/InfinitePraveen/Supplier-Risk-Scorecard"
+    },
+    {
+      "Serial Number": 92,
+      "Fields": "GOVERNANCE, RISK & PUBLIC POLICY",
+      "Project Name": "Proactive Compliance AI (GenAI)",
+      "Profession": "Regulatory Tech Eng.",
+      "Best for": "Policy Analysts, ESG Consultants, Public Affairs Data Sci.",
+      "Link": "https://github.com/InfinitePraveen/Proactive-Compliance-AI-GenAI-"
+    },
+    {
+      "Serial Number": 93,
+      "Fields": "GOVERNANCE, RISK & PUBLIC POLICY",
+      "Project Name": "Real-Time ESG Rating Agent",
+      "Profession": "Climate Data Sci.",
+      "Best for": "Policy Analysts, ESG Consultants, Public Affairs Data Sci.",
+      "Link": "https://github.com/InfinitePraveen/Real-Time-ESG-Rating-Agent"
+    },
+    {
+      "Serial Number": 94,
+      "Fields": "GOVERNANCE, RISK & PUBLIC POLICY",
+      "Project Name": "Policy Impact Simulator (Digital Twin)",
+      "Profession": "Public Policy Modeler",
+      "Best for": "Policy Analysts, ESG Consultants, Public Affairs Data Sci.",
+      "Link": "https://github.com/InfinitePraveen/Policy-Impact-Simulator-Digital-Twin-"
+    },
+    {
+      "Serial Number": 95,
+      "Fields": "GOVERNANCE, RISK & PUBLIC POLICY",
+      "Project Name": "Stakeholder Influence Mapping",
+      "Profession": "Network Analyst",
+      "Best for": "Policy Analysts, ESG Consultants, Public Affairs Data Sci.",
+      "Link": "https://github.com/InfinitePraveen/Stakeholder-Influence-Mapping"
+    },
+    {
+      "Serial Number": 96,
+      "Fields": "GOVERNANCE, RISK & PUBLIC POLICY",
+      "Project Name": "Crisis Narrative Propagation Model",
+      "Profession": "Social Dynamics AI",
+      "Best for": "Policy Analysts, ESG Consultants, Public Affairs Data Sci.",
+      "Link": "https://github.com/InfinitePraveen/Crisis-Narrative-Propagation-Model"
+    },
+    {
+      "Serial Number": 97,
+      "Fields": "DIGITAL PRODUCT & CUSTOMER GROWTH",
+      "Project Name": "Self-Evolving Product Roadmap (RL)",
+      "Profession": "AI Product Manager",
+      "Best for": "Product Managers, Growth Hackers, Customer Success Ops",
+      "Link": "https://github.com/InfinitePraveen/Self-Evolving-Product-Roadmap-RL-"
+    },
+    {
+      "Serial Number": 98,
+      "Fields": "DIGITAL PRODUCT & CUSTOMER GROWTH",
+      "Project Name": "Empathetic AI Customer Agent (LLM)",
+      "Profession": "Conversational AI",
+      "Best for": "Product Managers, Growth Hackers, Customer Success Ops",
+      "Link": "https://github.com/InfinitePraveen/Empathetic-AI-Customer-Agent-LLM-"
+    },
+    {
+      "Serial Number": 99,
+      "Fields": "DIGITAL PRODUCT & CUSTOMER GROWTH",
+      "Project Name": "Multi-Armed Bandit for Promotions",
+      "Profession": "Growth Data Sci.",
+      "Best for": "Product Managers, Growth Hackers, Customer Success Ops",
+      "Link": "https://github.com/InfinitePraveen/Multi-Armed-Bandit-for-Promotions"
+    },
+    {
+      "Serial Number": 100,
+      "Fields": "DIGITAL PRODUCT & CUSTOMER GROWTH",
+      "Project Name": "User Journey Optimization (Markov)",
+      "Profession": "Product Analyst",
+      "Best for": "Product Managers, Growth Hackers, Customer Success Ops",
+      "Link": "https://github.com/InfinitePraveen/User-Journey-Optimization-Markov-"
+    },
+    {
+      "Serial Number": 101,
+      "Fields": "DIGITAL PRODUCT & CUSTOMER GROWTH",
+      "Project Name": "Churn Risk Segmentation",
+      "Profession": "Customer Success Ops",
+      "Best for": "Product Managers, Growth Hackers, Customer Success Ops",
+      "Link": "https://github.com/InfinitePraveen/Churn-Risk-Segmentation"
+    }
+  ],
+  "special": [
+    {
+      "Serial Number": 1,
+      "Project Name": "Ad Click-Through Rate (CTR) Predictor",
+      "Why it Impresses": "You understand how Meta/Google make money (ads). Use a massive dataset to predict if a user clicks an ad.",
+      "Tech Stack": "XGBoost, Feature Engineering",
+      "Link": "https://github.com/InfinitePraveen/Ad-Click-Through-Rate-CTR-Predictor"
+    },
+    {
+      "Serial Number": 2,
+      "Project Name": "YouTube Viral Video Forecaster (NLP)",
+      "Why it Impresses": "Predict which new YouTube video will go viral in 48 hours based on title, description, and comments.",
+      "Tech Stack": "NLP (BERT), Time-Series",
+      "Link": "https://github.com/InfinitePraveen/YouTube-Viral-Video-Forecaster-NLP-"
+    },
+    {
+      "Serial Number": 3,
+      "Project Name": "Instagram Reach & Engagement Optimizer",
+      "Why it Impresses": "Build a tool that tells a creator the best time and filter to post to maximize reach.",
+      "Tech Stack": "A/B Testing, Regression",
+      "Link": "https://github.com/InfinitePraveen/Instagram-Reach-Engagement-Optimizer"
+    },
+    {
+      "Serial Number": 4,
+      "Project Name": "Google Maps Traffic Anomaly Detector",
+      "Why it Impresses": "Using public NYC Taxi data, detect unusual traffic patterns (accidents/events) in real-time.",
+      "Tech Stack": "LSTM, Anomaly Detection",
+      "Link": "https://github.com/InfinitePraveen/Google-Maps-Traffic-Anomaly-Detector"
+    },
+    {
+      "Serial Number": 5,
+      "Project Name": "Automatic Google Translate Quality Checker",
+      "Why it Impresses": "Build a model that scores how \"natural\" a machine translation sounds compared to a human.",
+      "Tech Stack": "NLP (BLEU, BERTScore)",
+      "Link": "https://github.com/InfinitePraveen/Automatic-Google-Translate-Quality-Checker"
+    },
+    {
+      "Serial Number": 6,
+      "Project Name": "Smart Reply Generator for Gmail/WhatsApp",
+      "Why it Impresses": "Build a lightweight NLP model that suggests 3 contextual replies to an incoming email/message.",
+      "Tech Stack": "T5 or GPT-like (Small)",
+      "Link": "https://github.com/InfinitePraveen/Smart-Reply-Generator-for-Gmail-WhatsApp"
+    },
+    {
+      "Serial Number": 7,
+      "Project Name": "Churn Prediction for Spotify/Netflix",
+      "Why it Impresses": "Predict which users will cancel their subscription next month based on listening/watching habits.",
+      "Tech Stack": "Survival Analysis, Logistic Regression",
+      "Link": "https://github.com/InfinitePraveen/Churn-Prediction-for-Spotify-Netflix"
+    },
+    {
+      "Serial Number": 8,
+      "Project Name": "Multi-Touch Attribution Model",
+      "Why it Impresses": "A model that correctly assigns credit to Facebook, Google, and TikTok ads for a final sale (crucial for Meta).",
+      "Tech Stack": "Markov Chains, Shapley Values",
+      "Link": "https://github.com/InfinitePraveen/Multi-Touch-Attribution-Model"
+    },
+    {
+      "Serial Number": 9,
+      "Project Name": "Amazon Warehouse Robot Path Planner",
+      "Why it Impresses": "Simulate 10 warehouse robots moving packages without colliding (Reinforcement Learning basics).",
+      "Tech Stack": "RL (Q-Learning), Simulation",
+      "Link": "https://github.com/InfinitePraveen/Amazon-Warehouse-Robot-Path-Planner"
+    },
+    {
+      "Serial Number": 10,
+      "Project Name": "AWS Cloud Cost Anomaly Detector (FinOps)",
+      "Why it Impresses": "Build a dashboard that flags sudden spikes in cloud computing costs (NVIDIA/Amazon love cost-savers).",
+      "Tech Stack": "Python, Plotly Dash, Scikit-learn",
+      "Link": "https://github.com/InfinitePraveen/AWS-Cloud-Cost-Anomaly-Detector-FinOps-"
+    },
+    {
+      "Serial Number": 11,
+      "Project Name": "Prime Air Drone Delivery Optimizer",
+      "Why it Impresses": "Given wind and weather data, predict if a drone can deliver a package within 30 minutes.",
+      "Tech Stack": "Random Forest, Geospatial Data",
+      "Link": "https://github.com/InfinitePraveen/Prime-Air-Drone-Delivery-Optimizer"
+    },
+    {
+      "Serial Number": 12,
+      "Project Name": "GPU Memory Usage Forecaster",
+      "Why it Impresses": "Predict how much VRAM a deep learning model will need before training starts (huge for NVIDIA).",
+      "Tech Stack": "Regression, Model Profiling",
+      "Link": "https://github.com/InfinitePraveen/GPU-Memory-Usage-Forecaster"
+    },
+    {
+      "Serial Number": 13,
+      "Project Name": "Product Review Summarizer (Amazon)",
+      "Why it Impresses": "Use NLP to scrape 1,000 reviews and summarize the top 3 pros and cons automatically.",
+      "Tech Stack": "Summarization (BART/T5)",
+      "Link": "https://github.com/InfinitePraveen/Product-Review-Summarizer-Amazon-"
+    },
+    {
+      "Serial Number": 14,
+      "Project Name": "Demand Forecasting for Global Inventory",
+      "Why it Impresses": "Predict how many units of a product to stock in each country 3 months ahead.",
+      "Tech Stack": "Prophet, XGBoost, Time-Series",
+      "Link": "https://github.com/InfinitePraveen/Demand-Forecasting-for-Global-Inventory"
+    },
+    {
+      "Serial Number": 15,
+      "Project Name": "Fake Review Detector",
+      "Why it Impresses": "Classify which product reviews on Amazon are written by bots vs. real humans.",
+      "Tech Stack": "NLP, Anomaly Detection",
+      "Link": "https://github.com/InfinitePraveen/Fake-Review-Detector"
+    },
+    {
+      "Serial Number": 16,
+      "Project Name": "iPhone Gyroscope Activity Tracker",
+      "Why it Impresses": "Use Apple's open CoreML data to classify if a user is walking, running, or driving using only motion sensors.",
+      "Tech Stack": "Time-Series, CNNs, CoreML",
+      "Link": "https://github.com/InfinitePraveen/iPhone-Gyroscope-Activity-Tracker"
+    },
+    {
+      "Serial Number": 17,
+      "Project Name": "SpaceX Falcon 9 Landing Success Predictor",
+      "Why it Impresses": "Use public SpaceX telemetry data to predict if the booster will land successfully on the drone ship.",
+      "Tech Stack": "Logistic Regression, Physics-Informed ML",
+      "Link": "https://github.com/InfinitePraveen/SpaceX-Falcon-9-Landing-Success-Predictor"
+    },
+    {
+      "Serial Number": 18,
+      "Project Name": "Satellite Image Cloud Cover Filter",
+      "Why it Impresses": "Build a CV model that detects clouds in satellite images so SpaceX/NASA know which photos are unusable.",
+      "Tech Stack": "Computer Vision (U-Net)",
+      "Link": "https://github.com/InfinitePraveen/Satellite-Image-Cloud-Cover-Filter"
+    },
+    {
+      "Serial Number": 19,
+      "Project Name": "Privacy-Preserving Face Blurrer (Apple)",
+      "Why it Impresses": "An on-device AI that detects and blurs faces in photos without sending data to the cloud.",
+      "Tech Stack": "TinyML, OpenCV, MobileNet",
+      "Link": "https://github.com/InfinitePraveen/Privacy-Preserving-Face-Blurrer-Apple-"
+    },
+    {
+      "Serial Number": 20,
+      "Project Name": "Battery Health Degradation Model",
+      "Why it Impresses": "Predict how many charge cycles an iPhone/MacBook battery has left based on usage patterns.",
+      "Tech Stack": "Regression, Survival Analysis",
+      "Link": "https://github.com/InfinitePraveen/Battery-Health-Degradation-Model"
+    },
+    {
+      "Serial Number": 21,
+      "Project Name": "LLM Hallucination Detector",
+      "Why it Impresses": "Build a \"fact-checker\" that takes a ChatGPT response and flags claims that are not supported by a given PDF.",
+      "Tech Stack": "RAG (Retrieval-Augmented Gen), Vector DBs",
+      "Link": "https://github.com/InfinitePraveen/LLM-Hallucination-Detector"
+    },
+    {
+      "Serial Number": 22,
+      "Project Name": "Prompt Injection Defense System",
+      "Why it Impresses": "Build a system that detects if a user is trying to hack an AI by giving malicious prompts (jailbreak detection).",
+      "Tech Stack": "NLP, Binary Classification",
+      "Link": "https://github.com/InfinitePraveen/Prompt-Injection-Defense-System"
+    },
+    {
+      "Serial Number": 23,
+      "Project Name": "Custom ChatGPT for your Resume",
+      "Why it Impresses": "Build a RAG chatbot that recruiters can \"talk to\" to ask questions about your skills (very novel).",
+      "Tech Stack": "LangChain, Pinecone, Streamlit",
+      "Link": "https://github.com/InfinitePraveen/Custom-ChatGPT-for-your-Resume"
+    },
+    {
+      "Serial Number": 24,
+      "Project Name": "AI-Generated Text vs. Human Writer",
+      "Why it Impresses": "Build a classifier that detects if an essay was written by a student or by ChatGPT.",
+      "Tech Stack": "RoBERTa, NLP",
+      "Link": "https://github.com/InfinitePraveen/AI-Generated-Text-vs.-Human-Writer"
+    },
+    {
+      "Serial Number": 25,
+      "Project Name": "Multi-Agent Debate Simulator",
+      "Why it Impresses": "Simulate 3 AI agents debating a topic (e.g., Climate Change) to see if they reach a consensus (shows advanced thinking).",
+      "Tech Stack": "OpenAI API, CrewAI",
+      "Link": "https://github.com/InfinitePraveen/Multi-Agent-Debate-Simulator"
+    },
+    {
+      "Serial Number": 26,
+      "Project Name": "Toxicity & Bias Mitigation Tool",
+      "Why it Impresses": "Take a dataset of comments and automatically rewrite toxic ones to be neutral without changing meaning.",
+      "Tech Stack": "Transformers, Fine-tuning",
+      "Link": "https://github.com/InfinitePraveen/Toxicity-Bias-Mitigation-Tool"
+    },
+    {
+      "Serial Number": 27,
+      "Project Name": "SWOT Analysis Generator from 10-K Reports",
+      "Why it Impresses": "Scrape SEC financial filings and use NLP to auto-generate a company's Strengths/Weaknesses.",
+      "Tech Stack": "NLP (NER), BeautifulSoup",
+      "Link": "https://github.com/InfinitePraveen/SWOT-Analysis-Generator-from-10-K-Reports"
+    },
+    {
+      "Serial Number": 28,
+      "Project Name": "Real-Time Dashcam Object Detection",
+      "Why it Impresses": "Build a YOLO model that detects pedestrians/cars on a video feed (autonomous driving basic).",
+      "Tech Stack": "YOLOv8, OpenCV",
+      "Link": "https://github.com/InfinitePraveen/Real-Time-Dashcam-Object-Detection"
+    },
+    {
+      "Serial Number": 29,
+      "Project Name": "Global News Sentiment & Stock Mover",
+      "Why it Impresses": "Show a live dashboard where positive/negative news moves a simulated stock price (trading bot demo).",
+      "Tech Stack": "VADER, Streamlit, APIs",
+      "Link": "https://github.com/InfinitePraveen/Global-News-Sentiment-Stock-Mover"
+    },
+    {
+      "Serial Number": 30,
+      "Project Name": "End-to-End MLOps Pipeline (The \"Crown Jewel\")",
+      "Why it Impresses": "Build a project that automatically scrapes data, trains a model, evaluates it, and deploys it via a REST API. This single project beats 10 simple projects.",
+      "Tech Stack": "Docker, FastAPI, GitHub Actions, MLflow",
+      "Link": "https://github.com/InfinitePraveen/End-to-End-MLOps-Pipeline-The-Crown-Jewel-"
+    }
+  ],
+  "research": [
+    {
+      "id": 1,
+      "module": "Module 1: Python Foundations and Computational Thinking",
+      "title": "Python's Object Model: Building a Domain-Specific Language for Mathematical Expressions",
+      "books": [
+        "Python Crash Course (Part I), Fluent Python (Ch 1-5), DS&A in Python (Ch 5)"
+      ],
+      "questions": [
+        "How can Python's data model be leveraged to create intuitive mathematical DSLs?",
+        "What are the performance implications of custom sequence types?"
+      ],
+      "methodology": [
+        "Implement a symbolic expression system using Python's special methods (__add__, __mul__, __call__, etc.)",
+        "Create vector and matrix classes with operator overloading",
+        "Implement dynamic array with amortized analysis",
+        "Benchmark against NumPy"
+      ],
+      "deliverables": [
+        "Research article on DSL implementation in Python",
+        "Video tutorial on Python's data model"
+      ]
+    },
+    {
+      "id": 2,
+      "module": "Module 1: Python Foundations and Computational Thinking",
+      "title": "Memory-Efficient Data Structures for Large-Scale Data Processing",
+      "books": [
+        "Fluent Python (Ch 1-5), DS&A in Python (Ch 5), Goodrich Chapter 5"
+      ],
+      "questions": [
+        "What is the memory footprint of different Python data structures?",
+        "How can we implement memory-efficient alternatives?"
+      ],
+      "methodology": [
+        "Analyze memory usage of lists, tuples, dictionaries, sets",
+        "Implement array-based structures with memory optimization",
+        "Compare with array module and numpy",
+        "Create hybrid data structures"
+      ],
+      "deliverables": [
+        "Memory analysis research paper",
+        "Implementation guide video"
+      ]
+    },
+    {
+      "id": 3,
+      "module": "Module 1: Python Foundations and Computational Thinking",
+      "title": "Asymptotic Analysis Verification Through Empirical Benchmarking",
+      "books": [
+        "Python Crash Course (Part I), CLRS (Ch 3)"
+      ],
+      "questions": [
+        "How well do empirical running times match theoretical complexity?",
+        "What factors cause deviations from theoretical predictions?"
+      ],
+      "methodology": [
+        "Implement algorithms with different complexities (O(1), O(log n), O(n), O(n log n), O(n²))",
+        "Create benchmarking framework",
+        "Statistical analysis of running times",
+        "Develop visualization of growth rates"
+      ],
+      "deliverables": [
+        "Empirical analysis research article",
+        "Benchmarking framework code",
+        "Video demonstration"
+      ]
+    },
+    {
+      "id": 4,
+      "module": "Module 2: Data Science Foundations and Business Applications",
+      "title": "A Framework for Measuring Data Science ROI in Different Industries",
+      "books": [
+        "Data Science for Business (Ch 1-2), Practical Statistics for Data Scientists (Ch 1-3)"
+      ],
+      "questions": [
+        "What metrics effectively capture data science value?",
+        "How does ROI vary across industries?"
+      ],
+      "methodology": [
+        "Develop comprehensive ROI framework",
+        "Case studies: Healthcare, Finance, Retail, Tech",
+        "Quantitative and qualitative metrics",
+        "Sensitivity analysis"
+      ],
+      "deliverables": [
+        "ROI framework research article",
+        "Industry case studies",
+        "Video presentation"
+      ]
+    },
+    {
+      "id": 5,
+      "module": "Module 2: Data Science Foundations and Business Applications",
+      "title": "Ethical Decision-Making Framework for Data Science Projects",
+      "books": [
+        "Data Science for Business (Ch 1-2), Practical Statistics (Ch 1-3)"
+      ],
+      "questions": [
+        "What ethical frameworks apply to data science?",
+        "How can ethics be operationalized?"
+      ],
+      "methodology": [
+        "Review of ethical frameworks in AI/DS",
+        "Develop decision-making matrix",
+        "Case studies of ethical challenges",
+        "Implementation guidelines"
+      ],
+      "deliverables": [
+        "Ethics framework paper",
+        "Practical guidelines video"
+      ]
+    },
+    {
+      "id": 6,
+      "module": "Module 2: Data Science Foundations and Business Applications",
+      "title": "The Business Impact of Data Quality on Model Performance",
+      "books": [
+        "Data Science for Business (Ch 1-2), Python Data Science Handbook (Ch 2)"
+      ],
+      "questions": [
+        "How does data quality affect business outcomes?",
+        "What is the ROI of data quality initiatives?"
+      ],
+      "methodology": [
+        "Design experiments with controlled data quality degradation",
+        "Measure impact on model performance",
+        "Quantify business impact",
+        "Cost-benefit analysis"
+      ],
+      "deliverables": [
+        "Data quality research paper",
+        "Business case video"
+      ]
+    },
+    {
+      "id": 7,
+      "module": "Module 3: Data Manipulation and Analysis with Pandas",
+      "title": "Efficient Big Data Processing with Pandas: Techniques and Limitations",
+      "books": [
+        "Python for Data Analysis (Ch 5-8, 10, 12)"
+      ],
+      "questions": [
+        "What are the performance limits of Pandas?",
+        "What optimization techniques work best?"
+      ],
+      "methodology": [
+        "Benchmark Pandas on datasets of increasing size",
+        "Implement optimization techniques (chunking, vectorization, Dask integration)",
+        "Memory profiling",
+        "Identify bottlenecks and solutions"
+      ],
+      "deliverables": [
+        "Performance analysis paper",
+        "Optimization guide video"
+      ]
+    },
+    {
+      "id": 8,
+      "module": "Module 3: Data Manipulation and Analysis with Pandas",
+      "title": "Time Series Feature Engineering Using Pandas for Predictive Modeling",
+      "books": [
+        "Python for Data Analysis (Ch 7, 10, 12), Forecasting P&P (Ch 1-3)"
+      ],
+      "questions": [
+        "What time series features are most predictive?",
+        "How can Pandas efficiently extract these features?"
+      ],
+      "methodology": [
+        "Implement time series feature extraction (lags, rolling statistics, seasonality)",
+        "Test on multiple datasets (stock prices, weather, sales)",
+        "Evaluate feature importance",
+        "Build prediction models"
+      ],
+      "deliverables": [
+        "Feature engineering research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 9,
+      "module": "Module 3: Data Manipulation and Analysis with Pandas",
+      "title": "Data Aggregation and Pivot Operations for Business Intelligence",
+      "books": [
+        "Python for Data Analysis (Ch 5-8), SQL for Data Analysts (Ch 1-3)"
+      ],
+      "questions": [
+        "What is the most efficient approach for multi-dimensional aggregation?",
+        "How do Pandas operations compare to SQL?"
+      ],
+      "methodology": [
+        "Implement complex aggregation pipelines",
+        "Compare Pandas, SQL, and OLAP approaches",
+        "Benchmark on large datasets",
+        "Develop best practices"
+      ],
+      "deliverables": [
+        "Aggregation techniques paper",
+        "Comparative analysis video"
+      ]
+    },
+    {
+      "id": 10,
+      "module": "Module 3: Data Manipulation and Analysis with Pandas",
+      "title": "Handling Missing Data in Real-World Datasets: A Comparative Study",
+      "books": [
+        "Python for Data Analysis (Ch 5-8), Practical Statistics (Ch 1-3)"
+      ],
+      "questions": [
+        "Which imputation methods work best for different data types?",
+        "What is the impact of missing data on machine learning models?"
+      ],
+      "methodology": [
+        "Implement multiple imputation strategies (mean, median, MICE, KNN, regression)",
+        "Test on datasets with simulated and real missing patterns",
+        "Evaluate imputation quality",
+        "Measure impact on downstream tasks"
+      ],
+      "deliverables": [
+        "Missing data research paper",
+        "Practical guide video"
+      ]
+    },
+    {
+      "id": 11,
+      "module": "Module 4: Web Scraping, Data Acquisition, and Integration",
+      "title": "Building a Robust Web Scraping Pipeline for E-commerce Price Monitoring",
+      "books": [
+        "Web Scraping with Python (Ch 1-3), SQL Cookbook (Ch 8-10)"
+      ],
+      "questions": [
+        "What architectural patterns ensure robust scraping?",
+        "How can scraping be integrated with database systems?"
+      ],
+      "methodology": [
+        "Design scraping architecture with retry, error handling",
+        "Implement with BeautifulSoup, Selenium, Scrapy",
+        "Store data in SQL database",
+        "Build price monitoring dashboard",
+        "Handle anti-scraping measures"
+      ],
+      "deliverables": [
+        "Web scraping architecture paper",
+        "Video demonstration of pipeline"
+      ]
+    },
+    {
+      "id": 12,
+      "module": "Module 4: Web Scraping, Data Acquisition, and Integration",
+      "title": "Legal and Technical Challenges in Large-Scale Data Acquisition",
+      "books": [
+        "Web Scraping with Python (Ch 1-3), Data Science for Business (Ch 1-2)"
+      ],
+      "questions": [
+        "What are the legal boundaries of web scraping?",
+        "How can technical solutions address compliance?"
+      ],
+      "methodology": [
+        "Review legal frameworks (GDPR, CCPA, robots.txt)",
+        "Develop compliance framework",
+        "Implement polite crawling",
+        "Design rate-limiting strategies"
+      ],
+      "deliverables": [
+        "Legal framework research",
+        "Implementation guide video"
+      ]
+    },
+    {
+      "id": 13,
+      "module": "Module 4: Web Scraping, Data Acquisition, and Integration",
+      "title": "Automated Data Cleansing and Validation for Scraped Data",
+      "books": [
+        "Web Scraping with Python (Ch 1-3), Python for Data Analysis (Ch 5-8)"
+      ],
+      "questions": [
+        "What quality issues are common in scraped data?",
+        "How can validation be automated?"
+      ],
+      "methodology": [
+        "Analyze scraped data quality issues",
+        "Implement validation rules",
+        "Develop automated cleansing pipeline",
+        "Create quality metrics and reports"
+      ],
+      "deliverables": [
+        "Data quality research",
+        "Cleansing pipeline video"
+      ]
+    },
+    {
+      "id": 14,
+      "module": "Module 4: Web Scraping, Data Acquisition, and Integration",
+      "title": "Integrating Web Scraping with Machine Learning Pipelines",
+      "books": [
+        "Web Scraping with Python (Ch 1-3), Designing ML Systems (Entire)"
+      ],
+      "questions": [
+        "How can scraping be integrated into ML workflow?",
+        "What are the design patterns for data acquisition?"
+      ],
+      "methodology": [
+        "Design end-to-end ML pipeline with scraping",
+        "Implement with Airflow or similar",
+        "Handle data freshness and versioning",
+        "Monitor data quality"
+      ],
+      "deliverables": [
+        "Integration architecture paper",
+        "Pipeline demo video"
+      ]
+    },
+    {
+      "id": 15,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Empirical Verification of Divide-and-Conquer Algorithm Efficiency",
+      "books": [
+        "CLRS (Ch 3, 4), Sedgewick (Ch 3), Algorithm Design (Ch 3)"
+      ],
+      "questions": [
+        "How accurately do theoretical analyses predict empirical performance?",
+        "What factors affect the crossover point for different algorithms?"
+      ],
+      "methodology": [
+        "Implement divide-and-conquer algorithms (merge sort, quicksort, closest pair)",
+        "Perform extensive benchmarking",
+        "Statistical analysis of running times",
+        "Determine optimal implementation parameters"
+      ],
+      "deliverables": [
+        "Empirical verification paper",
+        "Benchmarking code and results",
+        "Video analysis"
+      ]
+    },
+    {
+      "id": 16,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Graph Algorithms for Social Network Analysis",
+      "books": [
+        "CLRS (Ch 24), Algorithm Design (Ch 3), Sedgewick (Ch 4)"
+      ],
+      "questions": [
+        "Which graph algorithms are most effective for social network analysis?",
+        "How can algorithms be optimized for large-scale networks?"
+      ],
+      "methodology": [
+        "Implement BFS, DFS, shortest path (Dijkstra, Bellman-Ford)",
+        "Apply to social network datasets (Twitter, Facebook)",
+        "Analyze network properties (betweenness, centrality)",
+        "Scale to large graphs"
+      ],
+      "deliverables": [
+        "Graph algorithms research",
+        "Social network analysis video"
+      ]
+    },
+    {
+      "id": 17,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Dynamic Programming: Theoretical Foundations and Applications",
+      "books": [
+        "CLRS (Ch 15), Algorithm Design (Ch 4), Programming Pearls (Column 4)"
+      ],
+      "questions": [
+        "What are the common patterns in DP problems?",
+        "How can DP solutions be optimized?"
+      ],
+      "methodology": [
+        "Analyze multiple DP problems (knapsack, LCS, edit distance)",
+        "Identify recurring patterns",
+        "Implement with memoization, tabulation",
+        "Apply to real-world optimization problems"
+      ],
+      "deliverables": [
+        "DP pattern analysis paper",
+        "Problem-solving video series"
+      ]
+    },
+    {
+      "id": 18,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Hash Tables: Performance Analysis and Collision Resolution",
+      "books": [
+        "CLRS (Ch 11), DS&A in Python (Ch 5)"
+      ],
+      "questions": [
+        "Which collision resolution strategy is most effective?",
+        "How does load factor affect performance?"
+      ],
+      "methodology": [
+        "Implement hash tables with different collision strategies",
+        "Extensive benchmarking with varied data distributions",
+        "Analyze worst-case scenarios",
+        "Develop adaptive strategies"
+      ],
+      "deliverables": [
+        "Hash table performance paper",
+        "Implementation analysis video"
+      ]
+    },
+    {
+      "id": 19,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Balanced Binary Search Trees for Database Indexing",
+      "books": [
+        "CLRS (Ch 13-14), Algorithm Design (Ch 3)"
+      ],
+      "questions": [
+        "What are the performance trade-offs in different balanced BSTs?",
+        "How can these be applied to database indexing?"
+      ],
+      "methodology": [
+        "Implement AVL and Red-Black trees",
+        "Compare with B-trees concepts",
+        "Simulate database operations",
+        "Analyze performance characteristics"
+      ],
+      "deliverables": [
+        "BST indexing research",
+        "Database implementation video"
+      ]
+    },
+    {
+      "id": 20,
+      "module": "Module 5: Advanced Algorithms and Complexity Analysis",
+      "title": "Algorithm Design Patterns for Coding Competitions",
+      "books": [
+        "Competitive Programming 3 (Ch 2), Cracking the Coding Interview (Ch 2), Programming Pearls (Column 4)"
+      ],
+      "questions": [
+        "What patterns emerge in high-level competitive programming problems?",
+        "How can these be systematized?"
+      ],
+      "methodology": [
+        "Analyze 100+ programming contest problems",
+        "Identify recurring patterns",
+        "Develop solution framework",
+        "Create classification system"
+      ],
+      "deliverables": [
+        "Pattern analysis paper",
+        "Problem-solving strategies video"
+      ]
+    },
+    {
+      "id": 21,
+      "module": "Module 6: Exploratory Data Analysis and Visualization",
+      "title": "Framework for Automated Exploratory Data Analysis",
+      "books": [
+        "Hands-On EDA (Entire), Python Data Science Handbook (Ch 2, 4)"
+      ],
+      "questions": [
+        "What analyses should be automated?",
+        "How can we prioritize automated insights?"
+      ],
+      "methodology": [
+        "Identify EDA tasks suitable for automation",
+        "Build Python package for automated EDA",
+        "Use statistical tests and visualizations",
+        "Create summary reports with key insights",
+        "Compare with manual EDA"
+      ],
+      "deliverables": [
+        "Automated EDA research",
+        "Software package and documentation",
+        "Video demonstration"
+      ]
+    },
+    {
+      "id": 22,
+      "module": "Module 6: Exploratory Data Analysis and Visualization",
+      "title": "Visual Storytelling in Data Science: Framework and Case Studies",
+      "books": [
+        "Storytelling with Data (Ch 1-9), Tableau Pocket Reference (Ch 1-4)"
+      ],
+      "questions": [
+        "What makes a data story compelling?",
+        "How can visualization design be systematized?"
+      ],
+      "methodology": [
+        "Analyze successful data storytelling examples",
+        "Develop storytelling framework",
+        "Create case studies across domains",
+        "Evaluate effectiveness through user studies"
+      ],
+      "deliverables": [
+        "Storytelling framework paper",
+        "Case study video series"
+      ]
+    },
+    {
+      "id": 23,
+      "module": "Module 6: Exploratory Data Analysis and Visualization",
+      "title": "Interactive Dashboard Design for Executive Decision-Making",
+      "books": [
+        "Tableau Desktop Pocket Reference (Ch 1-4), Storytelling with Data (Ch 1-9)"
+      ],
+      "questions": [
+        "What dashboard elements are most effective?",
+        "How can dashboards be optimized for different user types?"
+      ],
+      "methodology": [
+        "Review dashboard design principles",
+        "Implement dashboards in Tableau and Python",
+        "Conduct user testing",
+        "Develop best practices guide"
+      ],
+      "deliverables": [
+        "Dashboard design research",
+        "Demonstration video"
+      ]
+    },
+    {
+      "id": 24,
+      "module": "Module 6: Exploratory Data Analysis and Visualization",
+      "title": "Statistical Graphics: Beyond Basic Charts",
+      "books": [
+        "Hands-On EDA (Entire), Storytelling with Data (Ch 1-9)"
+      ],
+      "questions": [
+        "What statistical graphics are underutilized?",
+        "How can we effectively communicate complex statistics visually?"
+      ],
+      "methodology": [
+        "Survey statistical graphics literature",
+        "Implement advanced visualizations (violin plots, pair plots, hexbin)",
+        "Create tutorials and examples",
+        "Evaluate comprehension"
+      ],
+      "deliverables": [
+        "Statistical graphics paper",
+        "Visualization gallery and code",
+        "Video tutorial"
+      ]
+    },
+    {
+      "id": 25,
+      "module": "Module 6: Exploratory Data Analysis and Visualization",
+      "title": "Visualization and Pattern Discovery in High-Dimensional Data",
+      "books": [
+        "Python Data Science Handbook (Ch 2, 4), Hands-On EDA (Entire)"
+      ],
+      "questions": [
+        "How can we visualize high-dimensional data effectively?",
+        "What patterns can be discovered through visualization?"
+      ],
+      "methodology": [
+        "Implement dimension reduction (PCA, t-SNE, UMAP)",
+        "Create interactive visualizations",
+        "Apply to high-dimensional datasets",
+        "Develop pattern discovery workflow"
+      ],
+      "deliverables": [
+        "High-dimensional visualization research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 26,
+      "module": "Module 7: Statistical Foundations and Probability",
+      "title": "Probability Theory Applications in Machine Learning: A Case Study",
+      "books": [
+        "Introduction to Probability (Ch 1-3), All of Statistics (Ch 1-10)"
+      ],
+      "questions": [
+        "How do probability concepts appear in ML algorithms?",
+        "What is the role of probability in modern ML?"
+      ],
+      "methodology": [
+        "Survey ML algorithms with probabilistic foundations (Naive Bayes, EM, MLE/MAP)",
+        "Implement algorithms from scratch",
+        "Analyze probabilistic reasoning in models",
+        "Create educational materials"
+      ],
+      "deliverables": [
+        "Probability in ML research",
+        "Video lecture series"
+      ]
+    },
+    {
+      "id": 27,
+      "module": "Module 7: Statistical Foundations and Probability",
+      "title": "Statistical Inference for Business Decision-Making",
+      "books": [
+        "All of Statistics (Ch 1-10), Practical Statistics (Ch 1-5)"
+      ],
+      "questions": [
+        "Which statistical inference methods are most applicable in business?",
+        "How can uncertainty be communicated to decision-makers?"
+      ],
+      "methodology": [
+        "Implement hypothesis testing, confidence intervals",
+        "Apply to business problems (sales, marketing, operations)",
+        "Develop communication framework",
+        "Case study analysis"
+      ],
+      "deliverables": [
+        "Business inference paper",
+        "Communication guide video"
+      ]
+    },
+    {
+      "id": 28,
+      "module": "Module 7: Statistical Foundations and Probability",
+      "title": "Bootstrap Methods and Their Applications in Data Science",
+      "books": [
+        "Practical Statistics (Ch 1-5), All of Statistics (Ch 1-10)"
+      ],
+      "questions": [
+        "What are the limitations of bootstrap?",
+        "How can bootstrap be applied to ML models?"
+      ],
+      "methodology": [
+        "Implement various bootstrap methods",
+        "Test on synthetic data",
+        "Apply to confidence intervals, bias correction",
+        "Compare with parametric methods"
+      ],
+      "deliverables": [
+        "Bootstrap research paper",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 29,
+      "module": "Module 7: Statistical Foundations and Probability",
+      "title": "Understanding Regression Through Algebraic and Geometric Perspectives",
+      "books": [
+        "Linear Algebra (Ch 1-4), All of Statistics (Ch 1-10)"
+      ],
+      "questions": [
+        "How does linear algebra deepen understanding of regression?",
+        "What insights come from geometric interpretations?"
+      ],
+      "methodology": [
+        "Derive OLS algebraically and geometrically",
+        "Visualize projection and orthogonality",
+        "Extend to multivariate cases",
+        "Apply to real data"
+      ],
+      "deliverables": [
+        "Regression foundations paper",
+        "Interactive visualization video"
+      ]
+    },
+    {
+      "id": 30,
+      "module": "Module 7: Statistical Foundations and Probability",
+      "title": "Multivariate Analysis Techniques for Pattern Recognition",
+      "books": [
+        "All of Statistics (Ch 1-10), Introduction to Probability (Ch 1-3)"
+      ],
+      "questions": [
+        "What multivariate techniques are most useful for pattern recognition?",
+        "How can they be implemented effectively?"
+      ],
+      "methodology": [
+        "Implement PCA, CCA, MANOVA",
+        "Apply to pattern recognition datasets",
+        "Compare techniques",
+        "Develop guidelines"
+      ],
+      "deliverables": [
+        "Multivariate analysis research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 31,
+      "module": "Module 8: Machine Learning Foundations",
+      "title": "From Linear to Logistic Regression: A Unified Framework",
+      "books": [
+        "ISLR (Ch 3-4), Practical Statistics (Ch 4-5), All of Statistics"
+      ],
+      "questions": [
+        "Can linear and logistic regression be unified under a single framework?",
+        "What are the theoretical and practical differences?"
+      ],
+      "methodology": [
+        "Develop generalized linear models framework",
+        "Implement linear and logistic regression",
+        "Apply to classification and regression tasks",
+        "Compare performance"
+      ],
+      "deliverables": [
+        "Unified regression paper",
+        "Video tutorial"
+      ]
+    },
+    {
+      "id": 32,
+      "module": "Module 8: Machine Learning Foundations",
+      "title": "Tree-Based Methods: From Single Trees to Ensembles",
+      "books": [
+        "ISLR (Ch 8), ESL (Ch 9-10), Hands-On ML (Ch 1-2)"
+      ],
+      "questions": [
+        "What is the theoretical basis for ensemble methods?",
+        "How do bagging and boosting compare?"
+      ],
+      "methodology": [
+        "Implement decision trees from scratch",
+        "Implement random forest and boosting",
+        "Comparative analysis on multiple datasets",
+        "Analyze theoretical foundations"
+      ],
+      "deliverables": [
+        "Tree-based methods research",
+        "Implementation and comparison video"
+      ]
+    },
+    {
+      "id": 33,
+      "module": "Module 8: Machine Learning Foundations",
+      "title": "Support Vector Machines: Theory and Practice",
+      "books": [
+        "ESL (Ch 9-10), ISLR (Ch 8), Bishop (Ch 6-7)"
+      ],
+      "questions": [
+        "What is the role of kernel functions?",
+        "How do SVMs compare to other classifiers?"
+      ],
+      "methodology": [
+        "Implement SVM from scratch (dual formulation)",
+        "Explore different kernels",
+        "Apply to classification problems",
+        "Compare with tree-based methods"
+      ],
+      "deliverables": [
+        "SVM research paper",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 34,
+      "module": "Module 8: Machine Learning Foundations",
+      "title": "Feature Engineering: A Systematic Approach",
+      "books": [
+        "Feature Engineering (Entire), ISLR (Ch 3-4)"
+      ],
+      "questions": [
+        "How can feature engineering be systematized?",
+        "What are the most effective feature transformations?"
+      ],
+      "methodology": [
+        "Implement systematic feature engineering pipeline",
+        "Test on multiple datasets",
+        "Measure impact on model performance",
+        "Develop best practices"
+      ],
+      "deliverables": [
+        "Feature engineering framework",
+        "Pipeline implementation video"
+      ]
+    },
+    {
+      "id": 35,
+      "module": "Module 8: Machine Learning Foundations",
+      "title": "Model Selection and Hyperparameter Tuning in Practice",
+      "books": [
+        "Hands-On ML (Ch 1-2), ISLR (Ch 3-4), Practical Statistics"
+      ],
+      "questions": [
+        "What hyperparameter tuning methods are most effective?",
+        "How should model selection be approached?"
+      ],
+      "methodology": [
+        "Implement grid search, random search, Bayesian optimization",
+        "Compare on multiple algorithms",
+        "Develop selection framework",
+        "Create guidelines"
+      ],
+      "deliverables": [
+        "Model selection research",
+        "Optimization tutorial video"
+      ]
+    },
+    {
+      "id": 36,
+      "module": "Module 9: Deep Learning and Neural Networks",
+      "title": "Neural Network Fundamentals: From Perceptron to Deep Networks",
+      "books": [
+        "Deep Learning (Ch 1-6), Hands-On ML (Ch 10-11)"
+      ],
+      "questions": [
+        "What are the key mathematical foundations of deep learning?",
+        "How do architectural choices affect performance?"
+      ],
+      "methodology": [
+        "Implement neural networks from scratch",
+        "Explore activation functions, architectures",
+        "Analyze gradient flow",
+        "Apply to benchmark datasets"
+      ],
+      "deliverables": [
+        "Neural network foundations paper",
+        "Implementation video series"
+      ]
+    },
+    {
+      "id": 37,
+      "module": "Module 9: Deep Learning and Neural Networks",
+      "title": "Convolutional Neural Networks for Image Analysis",
+      "books": [
+        "Hands-On ML (Ch 14), Deep Learning (Ch 1-6)"
+      ],
+      "questions": [
+        "What architectural patterns are effective for computer vision?",
+        "How can CNNs be optimized?"
+      ],
+      "methodology": [
+        "Implement CNN architectures from scratch",
+        "Apply to image classification/detection",
+        "Explore transfer learning",
+        "Analyze feature maps"
+      ],
+      "deliverables": [
+        "CNN research paper",
+        "Computer vision video project"
+      ]
+    },
+    {
+      "id": 38,
+      "module": "Module 9: Deep Learning and Neural Networks",
+      "title": "Unsupervised Learning: Clustering and Dimensionality Reduction",
+      "books": [
+        "Python Machine Learning (Ch 10-11), Bishop (Ch 9)"
+      ],
+      "questions": [
+        "Which clustering methods work best in different contexts?",
+        "How can dimensionality reduction improve ML?"
+      ],
+      "methodology": [
+        "Implement K-means, hierarchical clustering, DBSCAN",
+        "Implement PCA, t-SNE, UMAP",
+        "Test on various datasets",
+        "Develop selection guidelines"
+      ],
+      "deliverables": [
+        "Unsupervised learning research",
+        "Implementation comparison video"
+      ]
+    },
+    {
+      "id": 39,
+      "module": "Module 9: Deep Learning and Neural Networks",
+      "title": "Mixture Models and Expectation-Maximization",
+      "books": [
+        "Bishop (Ch 9), Pattern Recognition (Ch 9), Introduction to Probability"
+      ],
+      "questions": [
+        "What are the theoretical foundations of EM?",
+        "How can EM be applied to clustering?"
+      ],
+      "methodology": [
+        "Derive EM algorithm",
+        "Implement Gaussian mixture models",
+        "Apply to clustering and density estimation",
+        "Compare with K-means"
+      ],
+      "deliverables": [
+        "EM algorithm research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 40,
+      "module": "Module 10: NLP and Time Series Analysis",
+      "title": "Text Preprocessing and Feature Extraction for NLP",
+      "books": [
+        "Speech & Language Processing (Ch 1-4), Text Analytics (Ch 1-4)"
+      ],
+      "questions": [
+        "What preprocessing steps are essential for NLP?",
+        "What are the most effective text representations?"
+      ],
+      "methodology": [
+        "Implement text preprocessing pipeline",
+        "Implement feature extraction (TF-IDF, word embeddings)",
+        "Test on multiple NLP tasks",
+        "Develop best practices"
+      ],
+      "deliverables": [
+        "NLP preprocessing research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 41,
+      "module": "Module 10: NLP and Time Series Analysis",
+      "title": "Sentiment Analysis: From Bag-of-Words to Neural Networks",
+      "books": [
+        "Text Analytics (Ch 1-4), Speech & Language Processing (Ch 1-4)"
+      ],
+      "questions": [
+        "How have sentiment analysis methods evolved?",
+        "What are the trade-offs between methods?"
+      ],
+      "methodology": [
+        "Implement traditional methods (BOW + classifiers)",
+        "Implement neural methods (LSTM, BERT)",
+        "Comparative analysis",
+        "Analyze feature importance"
+      ],
+      "deliverables": [
+        "Sentiment analysis research",
+        "Comparison video"
+      ]
+    },
+    {
+      "id": 42,
+      "module": "Module 10: NLP and Time Series Analysis",
+      "title": "Time Series Forecasting: Statistical and Machine Learning Approaches",
+      "books": [
+        "Forecasting P&P (All), ISLR (Ch 3-4)"
+      ],
+      "questions": [
+        "When should statistical vs ML methods be used?",
+        "What is the role of feature engineering in forecasting?"
+      ],
+      "methodology": [
+        "Implement ARIMA, exponential smoothing",
+        "Implement ML methods (XGBoost, neural networks)",
+        "Compare on multiple datasets",
+        "Develop guidelines"
+      ],
+      "deliverables": [
+        "Forecasting research paper",
+        "Comparative analysis video"
+      ]
+    },
+    {
+      "id": 43,
+      "module": "Module 10: NLP and Time Series Analysis",
+      "title": "Advanced Forecasting: Prophet, DeepAR, and Neural Forecasting",
+      "books": [
+        "Forecasting P&P (All), Hands-On ML (Ch 10-11)"
+      ],
+      "questions": [
+        "What are the latest advances in time series forecasting?",
+        "How do modern methods compare to traditional?"
+      ],
+      "methodology": [
+        "Implement Prophet, DeepAR-like models",
+        "Test on multiple datasets",
+        "Measure accuracy, uncertainty",
+        "Develop selection framework"
+      ],
+      "deliverables": [
+        "Advanced forecasting research",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 44,
+      "module": "Module 11: Recommender Systems and Experimentation",
+      "title": "Collaborative Filtering Algorithms for Recommendation",
+      "books": [
+        "Recommender Systems Handbook (Selected Chapters), Python Machine Learning (Ch 10-11)"
+      ],
+      "questions": [
+        "Which collaborative filtering methods work best?",
+        "What are the limitations of current approaches?"
+      ],
+      "methodology": [
+        "Implement user-based, item-based CF",
+        "Implement matrix factorization",
+        "Apply to recommendation datasets",
+        "Evaluate with precision/recall"
+      ],
+      "deliverables": [
+        "Recommendation research paper",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 45,
+      "module": "Module 11: Recommender Systems and Experimentation",
+      "title": "A/B Testing: Design, Analysis, and Pitfalls",
+      "books": [
+        "Trustworthy Online Experiments (Ch 1-4), Practical Statistics (Ch 4-5)"
+      ],
+      "questions": [
+        "What are common pitfalls in A/B testing?",
+        "How can experiments be designed effectively?"
+      ],
+      "methodology": [
+        "Design A/B test framework",
+        "Implement power analysis",
+        "Address multiple testing",
+        "Develop guidelines"
+      ],
+      "deliverables": [
+        "A/B testing research",
+        "Implementation guide video"
+      ]
+    },
+    {
+      "id": 46,
+      "module": "Module 12: Big Data and System Design",
+      "title": "Big Data Processing with Apache Spark: Fundamentals and Best Practices",
+      "books": [
+        "Learning Spark (Entire), Designing Data-Intensive Applications (Ch 10-11)"
+      ],
+      "questions": [
+        "How does Spark compare to traditional data processing?",
+        "What are the best practices for Spark development?"
+      ],
+      "methodology": [
+        "Implement Spark pipelines",
+        "Optimize for performance",
+        "Compare with Pandas",
+        "Develop guidelines"
+      ],
+      "deliverables": [
+        "Spark research paper",
+        "Implementation video"
+      ]
+    },
+    {
+      "id": 47,
+      "module": "Module 12: Big Data and System Design",
+      "title": "MLOps: From Model Development to Production",
+      "books": [
+        "Designing ML Systems (Entire), Hands-On ML (Ch 1-2)"
+      ],
+      "questions": [
+        "What are the best practices for ML deployment?",
+        "How can ML systems be monitored and maintained?"
+      ],
+      "methodology": [
+        "Design ML pipeline",
+        "Implement deployment with CI/CD",
+        "Implement monitoring",
+        "Develop MLOps framework"
+      ],
+      "deliverables": [
+        "MLOps research paper",
+        "System design video"
+      ]
+    },
+    {
+      "id": 48,
+      "module": "Module 12: Big Data and System Design",
+      "title": "Streaming Data Processing and Real-Time ML",
+      "books": [
+        "Designing Data-Intensive Applications (Ch 10-11), Designing ML Systems"
+      ],
+      "questions": [
+        "What are the challenges in real-time ML?",
+        "What architectures support streaming?"
+      ],
+      "methodology": [
+        "Implement streaming pipeline (Kafka + Spark/Flink)",
+        "Implement online learning",
+        "Analyze latency, throughput",
+        "Develop guidelines"
+      ],
+      "deliverables": [
+        "Streaming ML research",
+        "Architecture video"
+      ]
+    },
+    {
+      "id": 49,
+      "module": "Module 13: Advanced SQL and Data Integration",
+      "title": "Advanced SQL Query Optimization for Analytics",
+      "books": [
+        "SQL Cookbook (Ch 8-10), SQL for Data Scientists (Entire)"
+      ],
+      "questions": [
+        "How can complex analytical queries be optimized?",
+        "What are the best practices for window functions?"
+      ],
+      "methodology": [
+        "Implement complex analytical queries",
+        "Use window functions, CTEs",
+        "Benchmark different approaches",
+        "Develop optimization guidelines"
+      ],
+      "deliverables": [
+        "SQL optimization research",
+        "Query optimization video"
+      ]
+    },
+    {
+      "id": 50,
+      "module": "Module 13: Advanced SQL and Data Integration",
+      "title": "SQL and NoSQL Integration in Modern Data Architecture",
+      "books": [
+        "SQL for Data Scientists (Entire), Learning SQL (Ch 4-7)"
+      ],
+      "questions": [
+        "How can SQL and NoSQL be integrated?",
+        "What are the trade-offs between paradigms?"
+      ],
+      "methodology": [
+        "Design hybrid data architecture",
+        "Implement with SQL + MongoDB",
+        "Compare approaches",
+        "Develop integration patterns"
+      ],
+      "deliverables": [
+        "Data architecture research",
+        "Integration video"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "id": 1,
+      "title": "Python's Data Model: Building Your Own Mathematical DSL - Advanced Python Tutorial",
+      "minutes": "15",
+      "marks": "95",
+      "url": "https://www.youtube.com/results?search_query=Python+s+Data+Model+Building+Your+Own+Mathematical+DSL+Advanced+Python+Tutorial",
+      "sample": true
+    },
+    {
+      "id": 2,
+      "title": "Memory-Efficient Python Data Structures: Handling Big Data Like a Pro",
+      "minutes": "14",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Memory+Efficient+Python+Data+Structures+Handling+Big+Data+Like+a+Pro",
+      "sample": true
+    },
+    {
+      "id": 3,
+      "title": "Asymptotic Analysis vs Reality: Empirical Algorithm Benchmarking in Python",
+      "minutes": "16",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Asymptotic+Analysis+vs+Reality+Empirical+Algorithm+Benchmarking+in+Python",
+      "sample": true
+    },
+    {
+      "id": 4,
+      "title": "Data Science ROI Framework: Measuring Value Across Industries",
+      "minutes": "15",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Data+Science+ROI+Framework+Measuring+Value+Across+Industries",
+      "sample": true
+    },
+    {
+      "id": 5,
+      "title": "Ethical AI Framework: Building Responsible Data Science Projects",
+      "minutes": "14",
+      "marks": "88",
+      "url": "https://www.youtube.com/results?search_query=Ethical+AI+Framework+Building+Responsible+Data+Science+Projects",
+      "sample": true
+    },
+    {
+      "id": 6,
+      "title": "Data Quality Impact on ML Models: The Hidden Cost of Bad Data",
+      "minutes": "16",
+      "marks": "95",
+      "url": "https://www.youtube.com/results?search_query=Data+Quality+Impact+on+ML+Models+The+Hidden+Cost+of+Bad+Data",
+      "sample": true
+    },
+    {
+      "id": 7,
+      "title": "Pandas Big Data Processing: Optimization Techniques You Must Know",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Pandas+Big+Data+Processing+Optimization+Techniques+You+Must+Know",
+      "sample": true
+    },
+    {
+      "id": 8,
+      "title": "Time Series Feature Engineering with Pandas: From Raw Data to Predictions",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Time+Series+Feature+Engineering+with+Pandas+From+Raw+Data+to+Predictions",
+      "sample": true
+    },
+    {
+      "id": 9,
+      "title": "Data Aggregation & Pivot Tables: Pandas vs SQL Performance Battle",
+      "minutes": "16",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Data+Aggregation+Pivot+Tables+Pandas+vs+SQL+Performance+Battle",
+      "sample": true
+    },
+    {
+      "id": 10,
+      "title": "Missing Data Mastery: 5 Imputation Methods Compared",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Missing+Data+Mastery+5+Imputation+Methods+Compared",
+      "sample": true
+    },
+    {
+      "id": 11,
+      "title": "Building Production-Grade Web Scraping Pipeline: E-commerce Price Monitor",
+      "minutes": "20",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Building+Production+Grade+Web+Scraping+Pipeline+E+commerce+Price+Monitor",
+      "sample": true
+    },
+    {
+      "id": 12,
+      "title": "Legal Web Scraping: GDPR, CCPA, and Ethical Data Acquisition",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Legal+Web+Scraping+GDPR+CCPA+and+Ethical+Data+Acquisition",
+      "sample": true
+    },
+    {
+      "id": 13,
+      "title": "Automated Data Cleansing: Validating Scraped Data Like a Pro",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Automated+Data+Cleansing+Validating+Scraped+Data+Like+a+Pro",
+      "sample": true
+    },
+    {
+      "id": 14,
+      "title": "Scraping + ML Pipeline: End-to-End Data Integration Architecture",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Scraping+ML+Pipeline+End+to+End+Data+Integration+Architecture",
+      "sample": true
+    },
+    {
+      "id": 15,
+      "title": "Divide and Conquer: Empirical Analysis vs Theoretical Complexity",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Divide+and+Conquer+Empirical+Analysis+vs+Theoretical+Complexity",
+      "sample": true
+    },
+    {
+      "id": 16,
+      "title": "Graph Algorithms for Social Network Analysis: BFS, DFS, Shortest Path",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Graph+Algorithms+for+Social+Network+Analysis+BFS+DFS+Shortest+Path",
+      "sample": true
+    },
+    {
+      "id": 17,
+      "title": "Dynamic Programming Patterns: From Theory to Real-World Applications",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Dynamic+Programming+Patterns+From+Theory+to+Real+World+Applications",
+      "sample": true
+    },
+    {
+      "id": 18,
+      "title": "Hash Tables Deep Dive: Collision Resolution & Performance Analysis",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Hash+Tables+Deep+Dive+Collision+Resolution+Performance+Analysis",
+      "sample": true
+    },
+    {
+      "id": 19,
+      "title": "Balanced BST for Database Indexing: AVL vs Red-Black Tree Analysis",
+      "minutes": "21",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Balanced+BST+for+Database+Indexing+AVL+vs+Red+Black+Tree+Analysis",
+      "sample": true
+    },
+    {
+      "id": 20,
+      "title": "Algorithm Design Patterns: From Competitive Programming to Real-World",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Algorithm+Design+Patterns+From+Competitive+Programming+to+Real+World",
+      "sample": true
+    },
+    {
+      "id": 21,
+      "title": "Automated EDA Framework: Build Your Own Data Exploration Tool",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Automated+EDA+Framework+Build+Your+Own+Data+Exploration+Tool",
+      "sample": true
+    },
+    {
+      "id": 22,
+      "title": "Visual Storytelling in Data Science: Framework & Case Studies",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Visual+Storytelling+in+Data+Science+Framework+Case+Studies",
+      "sample": true
+    },
+    {
+      "id": 23,
+      "title": "Executive Dashboard Design: Tableau & Python for Decision Making",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Executive+Dashboard+Design+Tableau+Python+for+Decision+Making",
+      "sample": true
+    },
+    {
+      "id": 24,
+      "title": "Advanced Statistical Graphics: Beyond Bar Charts & Scatter Plots",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Statistical+Graphics+Beyond+Bar+Charts+Scatter+Plots",
+      "sample": true
+    },
+    {
+      "id": 25,
+      "title": "High-Dimensional Data Visualization: PCA, t-SNE, and UMAP Mastery",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=High+Dimensional+Data+Visualization+PCA+t+SNE+and+UMAP+Mastery",
+      "sample": true
+    },
+    {
+      "id": 26,
+      "title": "Probability in Machine Learning: Naive Bayes, EM, MLE/MAP Explained",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Probability+in+Machine+Learning+Naive+Bayes+EM+MLE+MAP+Explained",
+      "sample": true
+    },
+    {
+      "id": 27,
+      "title": "Statistical Inference for Business: Hypothesis Testing & Confidence Intervals",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Statistical+Inference+for+Business+Hypothesis+Testing+Confidence+Intervals",
+      "sample": true
+    },
+    {
+      "id": 28,
+      "title": "Bootstrap Methods in Data Science: When & How to Use Them",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Bootstrap+Methods+in+Data+Science+When+How+to+Use+Them",
+      "sample": true
+    },
+    {
+      "id": 29,
+      "title": "Regression Through Linear Algebra: Geometric & Algebraic Perspectives",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Regression+Through+Linear+Algebra+Geometric+Algebraic+Perspectives",
+      "sample": true
+    },
+    {
+      "id": 30,
+      "title": "Multivariate Analysis: PCA, CCA, and MANOVA for Pattern Recognition",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Multivariate+Analysis+PCA+CCA+and+MANOVA+for+Pattern+Recognition",
+      "sample": true
+    },
+    {
+      "id": 31,
+      "title": "Linear vs Logistic Regression: A Unified Framework Explained",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Linear+vs+Logistic+Regression+A+Unified+Framework+Explained",
+      "sample": true
+    },
+    {
+      "id": 32,
+      "title": "Tree-Based Methods: From Decision Trees to Random Forest & XGBoost",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Tree+Based+Methods+From+Decision+Trees+to+Random+Forest+XGBoost",
+      "sample": true
+    },
+    {
+      "id": 33,
+      "title": "Support Vector Machines: Theory, Kernels, and Practical Implementation",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Support+Vector+Machines+Theory+Kernels+and+Practical+Implementation",
+      "sample": true
+    },
+    {
+      "id": 34,
+      "title": "Feature Engineering Mastery: A Systematic Approach to Better Models",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Feature+Engineering+Mastery+A+Systematic+Approach+to+Better+Models",
+      "sample": true
+    },
+    {
+      "id": 35,
+      "title": "Model Selection & Hyperparameter Tuning: Grid Search, Random Search, Bayesian",
+      "minutes": "21",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Model+Selection+Hyperparameter+Tuning+Grid+Search+Random+Search+Bayesian",
+      "sample": true
+    },
+    {
+      "id": 36,
+      "title": "Neural Networks from Scratch: Perceptron to Deep Learning Fundamentals",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Neural+Networks+from+Scratch+Perceptron+to+Deep+Learning+Fundamentals",
+      "sample": true
+    },
+    {
+      "id": 37,
+      "title": "CNN Architecture Deep Dive: Image Classification & Transfer Learning",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=CNN+Architecture+Deep+Dive+Image+Classification+Transfer+Learning",
+      "sample": true
+    },
+    {
+      "id": 38,
+      "title": "Unsupervised Learning: Clustering (K-Means, DBSCAN) & Dimensionality Reduction",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Unsupervised+Learning+Clustering+K+Means+DBSCAN+Dimensionality+Reduction",
+      "sample": true
+    },
+    {
+      "id": 39,
+      "title": "Mixture Models & EM Algorithm: Gaussian Mixture Models Explained",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Mixture+Models+EM+Algorithm+Gaussian+Mixture+Models+Explained",
+      "sample": true
+    },
+    {
+      "id": 40,
+      "title": "NLP Preprocessing & Feature Extraction: TF-IDF, Word Embeddings, BERT",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=NLP+Preprocessing+Feature+Extraction+TF+IDF+Word+Embeddings+BERT",
+      "sample": true
+    },
+    {
+      "id": 41,
+      "title": "Sentiment Analysis Evolution: From Bag-of-Words to BERT & Transformers",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Sentiment+Analysis+Evolution+From+Bag+of+Words+to+BERT+Transformers",
+      "sample": true
+    },
+    {
+      "id": 42,
+      "title": "Time Series Forecasting: ARIMA, Exponential Smoothing & ML Approaches",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Time+Series+Forecasting+ARIMA+Exponential+Smoothing+ML+Approaches",
+      "sample": true
+    },
+    {
+      "id": 43,
+      "title": "Advanced Forecasting: Prophet, DeepAR & Neural Network Models",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Forecasting+Prophet+DeepAR+Neural+Network+Models",
+      "sample": true
+    },
+    {
+      "id": 44,
+      "title": "Collaborative Filtering: User-Based, Item-Based & Matrix Factorization",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Collaborative+Filtering+User+Based+Item+Based+Matrix+Factorization",
+      "sample": true
+    },
+    {
+      "id": 45,
+      "title": "A/B Testing Mastery: Design, Statistical Analysis & Common Pitfalls",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=A+B+Testing+Mastery+Design+Statistical+Analysis+Common+Pitfalls",
+      "sample": true
+    },
+    {
+      "id": 46,
+      "title": "Apache Spark: Big Data Processing Fundamentals & Optimization",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Apache+Spark+Big+Data+Processing+Fundamentals+Optimization",
+      "sample": true
+    },
+    {
+      "id": 47,
+      "title": "MLOps Complete Guide: From Model Development to Production Deployment",
+      "minutes": "28",
+      "marks": "170",
+      "url": "https://www.youtube.com/results?search_query=MLOps+Complete+Guide+From+Model+Development+to+Production+Deployment",
+      "sample": true
+    },
+    {
+      "id": 48,
+      "title": "Real-Time ML: Streaming Data Processing with Kafka & Spark/Flink",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Real+Time+ML+Streaming+Data+Processing+with+Kafka+Spark+Flink",
+      "sample": true
+    },
+    {
+      "id": 49,
+      "title": "Advanced SQL Query Optimization: Window Functions, CTEs, and Analytics",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Advanced+SQL+Query+Optimization+Window+Functions+CTEs+and+Analytics",
+      "sample": true
+    },
+    {
+      "id": 50,
+      "title": "SQL & NoSQL Integration: Hybrid Data Architecture Patterns",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=SQL+NoSQL+Integration+Hybrid+Data+Architecture+Patterns",
+      "sample": true
+    }
+  ],
+  "all_presentations": [
+    {
+      "id": 1,
+      "title": "Python's Data Model: Building Your Own Mathematical DSL - Advanced Python Tutorial",
+      "minutes": "15",
+      "marks": "95",
+      "url": "https://www.youtube.com/results?search_query=Python+s+Data+Model+Building+Your+Own+Mathematical+DSL+Advanced+Python+Tutorial",
+      "sample": true
+    },
+    {
+      "id": 2,
+      "title": "Memory-Efficient Python Data Structures: Handling Big Data Like a Pro",
+      "minutes": "14",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Memory+Efficient+Python+Data+Structures+Handling+Big+Data+Like+a+Pro",
+      "sample": true
+    },
+    {
+      "id": 3,
+      "title": "Asymptotic Analysis vs Reality: Empirical Algorithm Benchmarking in Python",
+      "minutes": "16",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Asymptotic+Analysis+vs+Reality+Empirical+Algorithm+Benchmarking+in+Python",
+      "sample": true
+    },
+    {
+      "id": 4,
+      "title": "Data Science ROI Framework: Measuring Value Across Industries",
+      "minutes": "15",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Data+Science+ROI+Framework+Measuring+Value+Across+Industries",
+      "sample": true
+    },
+    {
+      "id": 5,
+      "title": "Ethical AI Framework: Building Responsible Data Science Projects",
+      "minutes": "14",
+      "marks": "88",
+      "url": "https://www.youtube.com/results?search_query=Ethical+AI+Framework+Building+Responsible+Data+Science+Projects",
+      "sample": true
+    },
+    {
+      "id": 6,
+      "title": "Data Quality Impact on ML Models: The Hidden Cost of Bad Data",
+      "minutes": "16",
+      "marks": "95",
+      "url": "https://www.youtube.com/results?search_query=Data+Quality+Impact+on+ML+Models+The+Hidden+Cost+of+Bad+Data",
+      "sample": true
+    },
+    {
+      "id": 7,
+      "title": "Pandas Big Data Processing: Optimization Techniques You Must Know",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Pandas+Big+Data+Processing+Optimization+Techniques+You+Must+Know",
+      "sample": true
+    },
+    {
+      "id": 8,
+      "title": "Time Series Feature Engineering with Pandas: From Raw Data to Predictions",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Time+Series+Feature+Engineering+with+Pandas+From+Raw+Data+to+Predictions",
+      "sample": true
+    },
+    {
+      "id": 9,
+      "title": "Data Aggregation & Pivot Tables: Pandas vs SQL Performance Battle",
+      "minutes": "16",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Data+Aggregation+Pivot+Tables+Pandas+vs+SQL+Performance+Battle",
+      "sample": true
+    },
+    {
+      "id": 10,
+      "title": "Missing Data Mastery: 5 Imputation Methods Compared",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Missing+Data+Mastery+5+Imputation+Methods+Compared",
+      "sample": true
+    },
+    {
+      "id": 11,
+      "title": "Building Production-Grade Web Scraping Pipeline: E-commerce Price Monitor",
+      "minutes": "20",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Building+Production+Grade+Web+Scraping+Pipeline+E+commerce+Price+Monitor",
+      "sample": true
+    },
+    {
+      "id": 12,
+      "title": "Legal Web Scraping: GDPR, CCPA, and Ethical Data Acquisition",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Legal+Web+Scraping+GDPR+CCPA+and+Ethical+Data+Acquisition",
+      "sample": true
+    },
+    {
+      "id": 13,
+      "title": "Automated Data Cleansing: Validating Scraped Data Like a Pro",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Automated+Data+Cleansing+Validating+Scraped+Data+Like+a+Pro",
+      "sample": true
+    },
+    {
+      "id": 14,
+      "title": "Scraping + ML Pipeline: End-to-End Data Integration Architecture",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Scraping+ML+Pipeline+End+to+End+Data+Integration+Architecture",
+      "sample": true
+    },
+    {
+      "id": 15,
+      "title": "Divide and Conquer: Empirical Analysis vs Theoretical Complexity",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Divide+and+Conquer+Empirical+Analysis+vs+Theoretical+Complexity",
+      "sample": true
+    },
+    {
+      "id": 16,
+      "title": "Graph Algorithms for Social Network Analysis: BFS, DFS, Shortest Path",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Graph+Algorithms+for+Social+Network+Analysis+BFS+DFS+Shortest+Path",
+      "sample": true
+    },
+    {
+      "id": 17,
+      "title": "Dynamic Programming Patterns: From Theory to Real-World Applications",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Dynamic+Programming+Patterns+From+Theory+to+Real+World+Applications",
+      "sample": true
+    },
+    {
+      "id": 18,
+      "title": "Hash Tables Deep Dive: Collision Resolution & Performance Analysis",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Hash+Tables+Deep+Dive+Collision+Resolution+Performance+Analysis",
+      "sample": true
+    },
+    {
+      "id": 19,
+      "title": "Balanced BST for Database Indexing: AVL vs Red-Black Tree Analysis",
+      "minutes": "21",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Balanced+BST+for+Database+Indexing+AVL+vs+Red+Black+Tree+Analysis",
+      "sample": true
+    },
+    {
+      "id": 20,
+      "title": "Algorithm Design Patterns: From Competitive Programming to Real-World",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Algorithm+Design+Patterns+From+Competitive+Programming+to+Real+World",
+      "sample": true
+    },
+    {
+      "id": 21,
+      "title": "Automated EDA Framework: Build Your Own Data Exploration Tool",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Automated+EDA+Framework+Build+Your+Own+Data+Exploration+Tool",
+      "sample": true
+    },
+    {
+      "id": 22,
+      "title": "Visual Storytelling in Data Science: Framework & Case Studies",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Visual+Storytelling+in+Data+Science+Framework+Case+Studies",
+      "sample": true
+    },
+    {
+      "id": 23,
+      "title": "Executive Dashboard Design: Tableau & Python for Decision Making",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Executive+Dashboard+Design+Tableau+Python+for+Decision+Making",
+      "sample": true
+    },
+    {
+      "id": 24,
+      "title": "Advanced Statistical Graphics: Beyond Bar Charts & Scatter Plots",
+      "minutes": "17",
+      "marks": "105",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Statistical+Graphics+Beyond+Bar+Charts+Scatter+Plots",
+      "sample": true
+    },
+    {
+      "id": 25,
+      "title": "High-Dimensional Data Visualization: PCA, t-SNE, and UMAP Mastery",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=High+Dimensional+Data+Visualization+PCA+t+SNE+and+UMAP+Mastery",
+      "sample": true
+    },
+    {
+      "id": 26,
+      "title": "Probability in Machine Learning: Naive Bayes, EM, MLE/MAP Explained",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Probability+in+Machine+Learning+Naive+Bayes+EM+MLE+MAP+Explained",
+      "sample": true
+    },
+    {
+      "id": 27,
+      "title": "Statistical Inference for Business: Hypothesis Testing & Confidence Intervals",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Statistical+Inference+for+Business+Hypothesis+Testing+Confidence+Intervals",
+      "sample": true
+    },
+    {
+      "id": 28,
+      "title": "Bootstrap Methods in Data Science: When & How to Use Them",
+      "minutes": "18",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Bootstrap+Methods+in+Data+Science+When+How+to+Use+Them",
+      "sample": true
+    },
+    {
+      "id": 29,
+      "title": "Regression Through Linear Algebra: Geometric & Algebraic Perspectives",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Regression+Through+Linear+Algebra+Geometric+Algebraic+Perspectives",
+      "sample": true
+    },
+    {
+      "id": 30,
+      "title": "Multivariate Analysis: PCA, CCA, and MANOVA for Pattern Recognition",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Multivariate+Analysis+PCA+CCA+and+MANOVA+for+Pattern+Recognition",
+      "sample": true
+    },
+    {
+      "id": 31,
+      "title": "Linear vs Logistic Regression: A Unified Framework Explained",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Linear+vs+Logistic+Regression+A+Unified+Framework+Explained",
+      "sample": true
+    },
+    {
+      "id": 32,
+      "title": "Tree-Based Methods: From Decision Trees to Random Forest & XGBoost",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Tree+Based+Methods+From+Decision+Trees+to+Random+Forest+XGBoost",
+      "sample": true
+    },
+    {
+      "id": 33,
+      "title": "Support Vector Machines: Theory, Kernels, and Practical Implementation",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Support+Vector+Machines+Theory+Kernels+and+Practical+Implementation",
+      "sample": true
+    },
+    {
+      "id": 34,
+      "title": "Feature Engineering Mastery: A Systematic Approach to Better Models",
+      "minutes": "19",
+      "marks": "115",
+      "url": "https://www.youtube.com/results?search_query=Feature+Engineering+Mastery+A+Systematic+Approach+to+Better+Models",
+      "sample": true
+    },
+    {
+      "id": 35,
+      "title": "Model Selection & Hyperparameter Tuning: Grid Search, Random Search, Bayesian",
+      "minutes": "21",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Model+Selection+Hyperparameter+Tuning+Grid+Search+Random+Search+Bayesian",
+      "sample": true
+    },
+    {
+      "id": 36,
+      "title": "Neural Networks from Scratch: Perceptron to Deep Learning Fundamentals",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Neural+Networks+from+Scratch+Perceptron+to+Deep+Learning+Fundamentals",
+      "sample": true
+    },
+    {
+      "id": 37,
+      "title": "CNN Architecture Deep Dive: Image Classification & Transfer Learning",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=CNN+Architecture+Deep+Dive+Image+Classification+Transfer+Learning",
+      "sample": true
+    },
+    {
+      "id": 38,
+      "title": "Unsupervised Learning: Clustering (K-Means, DBSCAN) & Dimensionality Reduction",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Unsupervised+Learning+Clustering+K+Means+DBSCAN+Dimensionality+Reduction",
+      "sample": true
+    },
+    {
+      "id": 39,
+      "title": "Mixture Models & EM Algorithm: Gaussian Mixture Models Explained",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Mixture+Models+EM+Algorithm+Gaussian+Mixture+Models+Explained",
+      "sample": true
+    },
+    {
+      "id": 40,
+      "title": "NLP Preprocessing & Feature Extraction: TF-IDF, Word Embeddings, BERT",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=NLP+Preprocessing+Feature+Extraction+TF+IDF+Word+Embeddings+BERT",
+      "sample": true
+    },
+    {
+      "id": 41,
+      "title": "Sentiment Analysis Evolution: From Bag-of-Words to BERT & Transformers",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Sentiment+Analysis+Evolution+From+Bag+of+Words+to+BERT+Transformers",
+      "sample": true
+    },
+    {
+      "id": 42,
+      "title": "Time Series Forecasting: ARIMA, Exponential Smoothing & ML Approaches",
+      "minutes": "22",
+      "marks": "135",
+      "url": "https://www.youtube.com/results?search_query=Time+Series+Forecasting+ARIMA+Exponential+Smoothing+ML+Approaches",
+      "sample": true
+    },
+    {
+      "id": 43,
+      "title": "Advanced Forecasting: Prophet, DeepAR & Neural Network Models",
+      "minutes": "23",
+      "marks": "140",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Forecasting+Prophet+DeepAR+Neural+Network+Models",
+      "sample": true
+    },
+    {
+      "id": 44,
+      "title": "Collaborative Filtering: User-Based, Item-Based & Matrix Factorization",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Collaborative+Filtering+User+Based+Item+Based+Matrix+Factorization",
+      "sample": true
+    },
+    {
+      "id": 45,
+      "title": "A/B Testing Mastery: Design, Statistical Analysis & Common Pitfalls",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=A+B+Testing+Mastery+Design+Statistical+Analysis+Common+Pitfalls",
+      "sample": true
+    },
+    {
+      "id": 46,
+      "title": "Apache Spark: Big Data Processing Fundamentals & Optimization",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Apache+Spark+Big+Data+Processing+Fundamentals+Optimization",
+      "sample": true
+    },
+    {
+      "id": 47,
+      "title": "MLOps Complete Guide: From Model Development to Production Deployment",
+      "minutes": "28",
+      "marks": "170",
+      "url": "https://www.youtube.com/results?search_query=MLOps+Complete+Guide+From+Model+Development+to+Production+Deployment",
+      "sample": true
+    },
+    {
+      "id": 48,
+      "title": "Real-Time ML: Streaming Data Processing with Kafka & Spark/Flink",
+      "minutes": "25",
+      "marks": "150",
+      "url": "https://www.youtube.com/results?search_query=Real+Time+ML+Streaming+Data+Processing+with+Kafka+Spark+Flink",
+      "sample": true
+    },
+    {
+      "id": 49,
+      "title": "Advanced SQL Query Optimization: Window Functions, CTEs, and Analytics",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=Advanced+SQL+Query+Optimization+Window+Functions+CTEs+and+Analytics",
+      "sample": true
+    },
+    {
+      "id": 50,
+      "title": "SQL & NoSQL Integration: Hybrid Data Architecture Patterns",
+      "minutes": "20",
+      "marks": "120",
+      "url": "https://www.youtube.com/results?search_query=SQL+NoSQL+Integration+Hybrid+Data+Architecture+Patterns",
+      "sample": true
+    },
+    {
+      "id": 51,
+      "title": "Python Programming Essentials: Complete Beginner to Intermediate Guide",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Python+Programming+Essentials+Complete+Beginner+to+Intermediate+Guide",
+      "sample": true
+    },
+    {
+      "id": 52,
+      "title": "Data Manipulation with Pandas: Master Data Wrangling in 20 Minutes",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Data+Manipulation+with+Pandas+Master+Data+Wrangling+in+20+Minutes",
+      "sample": true
+    },
+    {
+      "id": 53,
+      "title": "Data Visualization Mastery: Matplotlib, Seaborn & Plotly Tutorial",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Data+Visualization+Mastery+Matplotlib+Seaborn+Plotly+Tutorial",
+      "sample": true
+    },
+    {
+      "id": 54,
+      "title": "Real-World Data Science Applications: Projects That Solve Actual Problems",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Real+World+Data+Science+Applications+Projects+That+Solve+Actual+Problems",
+      "sample": true
+    },
+    {
+      "id": 55,
+      "title": "Data Science Interview Prep: Python, SQL, ML Questions & Solutions",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Data+Science+Interview+Prep+Python+SQL+ML+Questions+Solutions",
+      "sample": true
+    },
+    {
+      "id": 56,
+      "title": "Foundations of Statistical Thinking: Mean, Variance, Distribution Theory",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Foundations+of+Statistical+Thinking+Mean+Variance+Distribution+Theory",
+      "sample": true
+    },
+    {
+      "id": 57,
+      "title": "Probability Foundations: Conditional Probability, Bayes, Random Variables",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Probability+Foundations+Conditional+Probability+Bayes+Random+Variables",
+      "sample": true
+    },
+    {
+      "id": 58,
+      "title": "EDA & Visualization: Statistical Techniques for Data Exploration",
+      "minutes": "16",
+      "marks": "80",
+      "url": "https://www.youtube.com/results?search_query=EDA+Visualization+Statistical+Techniques+for+Data+Exploration",
+      "sample": true
+    },
+    {
+      "id": 59,
+      "title": "Inferential Statistics: Hypothesis Testing & Confidence Intervals Explained",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Inferential+Statistics+Hypothesis+Testing+Confidence+Intervals+Explained",
+      "sample": true
+    },
+    {
+      "id": 60,
+      "title": "Advanced Inferential Stats: ANOVA, Chi-Square, Non-Parametric Tests",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Inferential+Stats+ANOVA+Chi+Square+Non+Parametric+Tests",
+      "sample": true
+    },
+    {
+      "id": 61,
+      "title": "Probability & Statistical Modeling: Regression, GLM, and More",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Probability+Statistical+Modeling+Regression+GLM+and+More",
+      "sample": true
+    },
+    {
+      "id": 62,
+      "title": "Statistics in Real-World DS: Practical Applications & Case Studies",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Statistics+in+Real+World+DS+Practical+Applications+Case+Studies",
+      "sample": true
+    },
+    {
+      "id": 63,
+      "title": "Foundations of Supervised Learning: Linear Regression to KNN",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Foundations+of+Supervised+Learning+Linear+Regression+to+KNN",
+      "sample": true
+    },
+    {
+      "id": 64,
+      "title": "Model Evaluation & Validation: Cross-Validation, Metrics, Overfitting",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Model+Evaluation+Validation+Cross+Validation+Metrics+Overfitting",
+      "sample": true
+    },
+    {
+      "id": 65,
+      "title": "Decision Trees & Ensemble Methods: Random Forest, XGBoost, LightGBM",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Decision+Trees+Ensemble+Methods+Random+Forest+XGBoost+LightGBM",
+      "sample": true
+    },
+    {
+      "id": 66,
+      "title": "SVM & Naive Bayes: Complete Guide to Classification Algorithms",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=SVM+Naive+Bayes+Complete+Guide+to+Classification+Algorithms",
+      "sample": true
+    },
+    {
+      "id": 67,
+      "title": "Model Deployment & Interview Essentials: Production-Ready ML",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Model+Deployment+Interview+Essentials+Production+Ready+ML",
+      "sample": true
+    },
+    {
+      "id": 68,
+      "title": "Unsupervised Learning: Clustering, PCA, t-SNE, and More",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Unsupervised+Learning+Clustering+PCA+t+SNE+and+More",
+      "sample": true
+    },
+    {
+      "id": 69,
+      "title": "Neural Networks & Deep Learning: From Perceptron to Transformers",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Neural+Networks+Deep+Learning+From+Perceptron+to+Transformers",
+      "sample": true
+    },
+    {
+      "id": 70,
+      "title": "TensorFlow/Keras & CNNs: Computer Vision Deep Dive",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=TensorFlow+Keras+CNNs+Computer+Vision+Deep+Dive",
+      "sample": true
+    },
+    {
+      "id": 71,
+      "title": "NLP Basics: Text Processing, TF-IDF, Word2Vec, and Sentiment",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=NLP+Basics+Text+Processing+TF+IDF+Word2Vec+and+Sentiment",
+      "sample": true
+    },
+    {
+      "id": 72,
+      "title": "Deep Learning Interview Prep: Key Concepts, Architectures, and Tips",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Deep+Learning+Interview+Prep+Key+Concepts+Architectures+and+Tips",
+      "sample": true
+    },
+    {
+      "id": 73,
+      "title": "Time Series Analysis: Stationarity, ARIMA, and Forecasting",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Time+Series+Analysis+Stationarity+ARIMA+and+Forecasting",
+      "sample": true
+    },
+    {
+      "id": 74,
+      "title": "Recommendation Systems: Collaborative Filtering & Matrix Factorization",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Recommendation+Systems+Collaborative+Filtering+Matrix+Factorization",
+      "sample": true
+    },
+    {
+      "id": 75,
+      "title": "Big Data with PySpark: Distributed Computing Essentials",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Big+Data+with+PySpark+Distributed+Computing+Essentials",
+      "sample": true
+    },
+    {
+      "id": 76,
+      "title": "Cloud Computing & MLOps: AWS, GCP, Azure, and CI/CD for ML",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Cloud+Computing+MLOps+AWS+GCP+Azure+and+CI+CD+for+ML",
+      "sample": true
+    },
+    {
+      "id": 77,
+      "title": "SQL for Data Science: Query Optimization & Analytics",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=SQL+for+Data+Science+Query+Optimization+Analytics",
+      "sample": true
+    },
+    {
+      "id": 78,
+      "title": "Power BI Mastery: Dashboards, DAX, and Business Intelligence",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Power+BI+Mastery+Dashboards+DAX+and+Business+Intelligence",
+      "sample": true
+    },
+    {
+      "id": 79,
+      "title": "Tableau for Data Visualization: Advanced Charting & Dashboarding",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Tableau+for+Data+Visualization+Advanced+Charting+Dashboarding",
+      "sample": true
+    },
+    {
+      "id": 80,
+      "title": "AWS for Data Science: EC2, S3, SageMaker, RDS Complete Guide",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=AWS+for+Data+Science+EC2+S3+SageMaker+RDS+Complete+Guide",
+      "sample": true
+    },
+    {
+      "id": 81,
+      "title": "Google Cloud Platform for ML: Vertex AI, BigQuery, and More",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Google+Cloud+Platform+for+ML+Vertex+AI+BigQuery+and+More",
+      "sample": true
+    },
+    {
+      "id": 82,
+      "title": "Azure ML Fundamentals: Cognitive Services, ML Studio, and Deployment",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Azure+ML+Fundamentals+Cognitive+Services+ML+Studio+and+Deployment",
+      "sample": true
+    },
+    {
+      "id": 83,
+      "title": "Generative AI Foundations: LLMs, Transformers, and Diffusion Models",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Generative+AI+Foundations+LLMs+Transformers+and+Diffusion+Models",
+      "sample": true
+    },
+    {
+      "id": 84,
+      "title": "Advanced Generative Models: GANs, VAE, and Diffusion in Depth",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Generative+Models+GANs+VAE+and+Diffusion+in+Depth",
+      "sample": true
+    },
+    {
+      "id": 85,
+      "title": "GenAI Interview Prep: Key Concepts, Prompting, and Projects",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=GenAI+Interview+Prep+Key+Concepts+Prompting+and+Projects",
+      "sample": true
+    },
+    {
+      "id": 86,
+      "title": "Data Science Fundamentals & Lifecycle: CRISP-DM, OSEMN, and Best Practices",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Data+Science+Fundamentals+Lifecycle+CRISP+DM+OSEMN+and+Best+Practices",
+      "sample": true
+    },
+    {
+      "id": 87,
+      "title": "Exploratory Data Analysis (EDA): Complete Guide with Projects",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Exploratory+Data+Analysis+EDA+Complete+Guide+with+Projects",
+      "sample": true
+    },
+    {
+      "id": 88,
+      "title": "Power BI Mastery: Complete Business Intelligence Course",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Power+BI+Mastery+Complete+Business+Intelligence+Course",
+      "sample": true
+    },
+    {
+      "id": 89,
+      "title": "Advanced Excel: Data Analysis, PivotTables, and Automation",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Advanced+Excel+Data+Analysis+PivotTables+and+Automation",
+      "sample": true
+    },
+    {
+      "id": 90,
+      "title": "R for Data Science: dplyr, ggplot2, and Statistical Analysis",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=R+for+Data+Science+dplyr+ggplot2+and+Statistical+Analysis",
+      "sample": true
+    },
+    {
+      "id": 91,
+      "title": "SQL Mastery: Data Querying & Database Management Complete",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=SQL+Mastery+Data+Querying+Database+Management+Complete",
+      "sample": true
+    },
+    {
+      "id": 92,
+      "title": "Tableau Complete Guide: Visualization, Dashboards, and Storytelling",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Tableau+Complete+Guide+Visualization+Dashboards+and+Storytelling",
+      "sample": true
+    },
+    {
+      "id": 93,
+      "title": "Power BI & Tableau Case Studies: Real-World Business Scenarios",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Power+BI+Tableau+Case+Studies+Real+World+Business+Scenarios",
+      "sample": true
+    },
+    {
+      "id": 94,
+      "title": "Cloud Platforms Case Studies: AWS, GCP, Azure in Action",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Cloud+Platforms+Case+Studies+AWS+GCP+Azure+in+Action",
+      "sample": true
+    },
+    {
+      "id": 95,
+      "title": "Data Science Interview Essentials: 101 Questions & Answers",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Data+Science+Interview+Essentials+101+Questions+Answers",
+      "sample": true
+    },
+    {
+      "id": 96,
+      "title": "SQL Interview Questions: Advanced Query Solutions & Optimization",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=SQL+Interview+Questions+Advanced+Query+Solutions+Optimization",
+      "sample": true
+    },
+    {
+      "id": 97,
+      "title": "Python for Data Science: 10 Projects to Build Your Portfolio",
+      "minutes": "25",
+      "marks": "125",
+      "url": "https://www.youtube.com/results?search_query=Python+for+Data+Science+10+Projects+to+Build+Your+Portfolio",
+      "sample": true
+    },
+    {
+      "id": 98,
+      "title": "Pandas vs PySpark: When to Use Each for Big Data",
+      "minutes": "18",
+      "marks": "90",
+      "url": "https://www.youtube.com/results?search_query=Pandas+vs+PySpark+When+to+Use+Each+for+Big+Data",
+      "sample": true
+    },
+    {
+      "id": 99,
+      "title": "Feature Engineering Master Class: Real-World Examples",
+      "minutes": "20",
+      "marks": "100",
+      "url": "https://www.youtube.com/results?search_query=Feature+Engineering+Master+Class+Real+World+Examples",
+      "sample": true
+    },
+    {
+      "id": 100,
+      "title": "Model Deployment Guide: Flask, FastAPI, Docker & Kubernetes",
+      "minutes": "22",
+      "marks": "110",
+      "url": "https://www.youtube.com/results?search_query=Model+Deployment+Guide+Flask+FastAPI+Docker+Kubernetes",
+      "sample": true
+    }
+  ],
+  "profile": {
+    "name": "Praveen Kumar",
+    "tagline": "Open Source Scholar of Data Science, Machine Learning & Artificial Intelligence",
+    "bio": "Data Science student and open-source learner building practical projects across data analytics, machine learning and AI.",
+    "email": "hellopraveensales@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/infinitepraveen/",
+    "credly": "https://www.credly.com/users/infinitepraveen/badges/credly",
+    "github": "https://github.com/InfinitePraveen",
+    "youtube": "https://www.youtube.com/@InfinitePraveen",
+    "site": "https://infinitepraveen.github.io"
+  }
+}
